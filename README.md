@@ -1,6 +1,6 @@
 # CONVCSV
 
-Conversor de planilhas em Excel (XLSX) para formato de arquivo CSV (americano), para importação nos Bancos de Dados Relacionais e outros fins..
+Conversor de planilhas em Excel (XLSX) para formato de arquivo CSV (americano), para importação nos Bancos de Dados Relacionais e outros fins. Trata colunas de datas, colunas de valores em moeda (R$), casas decimais e codificação do arquivo (Chatset).
 
 ## Executável
 
