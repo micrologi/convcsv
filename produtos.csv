@@ -1,0 +1,2001 @@
+ID_Produto,Nome_Produto,Categoria,Preço,Quantidade_Estoque
+1,Estante,Móveis,292.54,533
+2,Camiseta,Roupas,414.29,118
+3,Cadeira,Móveis,433.69,676
+4,Feijão,Alimentos,56.44,769
+5,Autoajuda,Livros,318.71,158
+6,Guarda-roupa,Móveis,333.75,883
+7,Sofá,Móveis,248.33,263
+8,Tablet,Eletrônicos,189.49,360
+9,Martelo,Ferramentas,100.65,237
+10,Jaqueta,Roupas,468.72,275
+11,Mesa,Móveis,208.69,709
+12,Biografia,Livros,405.96,254
+13,Carrinho,Brinquedos,415.41,965
+14,Sofá,Móveis,94.37,668
+15,Ficção Científica,Livros,294.2,618
+16,Arroz,Alimentos,166.73,950
+17,Café,Alimentos,121.52,440
+18,Quebra-Cabeça,Brinquedos,95.52,572
+19,Smartphone,Eletrônicos,218.68,64
+20,Cadeira,Móveis,79.63,688
+21,Romance,Livros,64.64,19
+22,Tablet,Eletrônicos,166.79,287
+23,Mesa,Móveis,91.0,472
+24,Biografia,Livros,60.14,487
+25,Serra,Ferramentas,392.69,798
+26,Martelo,Ferramentas,193.84,581
+27,Vestido,Roupas,37.42,734
+28,História,Livros,395.29,374
+29,Biografia,Livros,453.04,564
+30,Calça Jeans,Roupas,463.62,740
+31,Calça Jeans,Roupas,66.86,886
+32,Smartwatch,Eletrônicos,336.24,48
+33,Camiseta,Roupas,469.45,268
+34,Biografia,Livros,396.11,833
+35,Quebra-Cabeça,Brinquedos,412.1,99
+36,Biscoito,Alimentos,110.6,115
+37,Mesa,Móveis,486.7,145
+38,Autoajuda,Livros,164.95,141
+39,Shorts,Roupas,135.91,562
+40,Mesa,Móveis,344.39,987
+41,Mesa,Móveis,260.74,314
+42,Boneca,Brinquedos,348.94,756
+43,História,Livros,445.91,301
+44,Estante,Móveis,361.61,589
+45,Quebra-Cabeça,Brinquedos,109.34,907
+46,Chocolate,Alimentos,287.78,746
+47,Guarda-roupa,Móveis,236.68,37
+48,Feijão,Alimentos,17.35,199
+49,Autoajuda,Livros,52.62,481
+50,Estante,Móveis,81.0,10
+51,Chave de Fenda,Ferramentas,156.91,491
+52,Jaqueta,Roupas,62.49,691
+53,Chave de Fenda,Ferramentas,50.12,647
+54,Notebook,Eletrônicos,484.83,800
+55,Arroz,Alimentos,206.73,393
+56,Camiseta,Roupas,302.34,29
+57,Café,Alimentos,367.6,492
+58,Ficção Científica,Livros,250.39,503
+59,Furadeira,Ferramentas,209.18,488
+60,Romance,Livros,302.85,705
+61,Lego,Brinquedos,185.65,539
+62,Cadeira,Móveis,29.86,942
+63,Smartphone,Eletrônicos,469.73,962
+64,Smartphone,Eletrônicos,51.76,13
+65,Romance,Livros,479.77,246
+66,Smartwatch,Eletrônicos,279.17,724
+67,Café,Alimentos,224.29,729
+68,Feijão,Alimentos,454.77,206
+69,Calça Jeans,Roupas,274.88,338
+70,TV LED,Eletrônicos,13.98,643
+71,Furadeira,Ferramentas,407.28,750
+72,Romance,Livros,335.15,733
+73,Quebra-Cabeça,Brinquedos,217.51,437
+74,Lego,Brinquedos,266.43,641
+75,Quebra-Cabeça,Brinquedos,402.63,636
+76,Autoajuda,Livros,273.32,386
+77,Café,Alimentos,377.52,482
+78,Calça Jeans,Roupas,335.09,657
+79,Carrinho,Brinquedos,192.14,531
+80,Café,Alimentos,477.19,160
+81,Guarda-roupa,Móveis,325.68,705
+82,Vestido,Roupas,80.06,378
+83,Boneca,Brinquedos,388.17,966
+84,Feijão,Alimentos,174.22,296
+85,Café,Alimentos,28.55,908
+86,Shorts,Roupas,59.94,642
+87,Mesa,Móveis,470.63,418
+88,Calça Jeans,Roupas,211.55,764
+89,Guarda-roupa,Móveis,317.02,6
+90,Autoajuda,Livros,316.49,309
+91,Autoajuda,Livros,148.16,733
+92,História,Livros,348.77,641
+93,Smartphone,Eletrônicos,45.62,262
+94,Ficção Científica,Livros,226.19,122
+95,Calça Jeans,Roupas,331.74,868
+96,Camiseta,Roupas,29.01,304
+97,História,Livros,400.09,62
+98,Boneca,Brinquedos,319.02,296
+99,Vestido,Roupas,415.67,464
+100,Notebook,Eletrônicos,222.08,87
+101,Tablet,Eletrônicos,480.55,947
+102,Shorts,Roupas,162.48,289
+103,Ficção Científica,Livros,349.73,373
+104,Ficção Científica,Livros,120.09,132
+105,Guarda-roupa,Móveis,76.16,475
+106,História,Livros,337.91,258
+107,Pelúcia,Brinquedos,143.95,504
+108,Chave de Fenda,Ferramentas,290.48,590
+109,Feijão,Alimentos,282.96,474
+110,Autoajuda,Livros,303.88,215
+111,Smartphone,Eletrônicos,289.89,664
+112,Biografia,Livros,114.62,574
+113,Furadeira,Ferramentas,298.43,113
+114,Tablet,Eletrônicos,341.3,255
+115,Mesa,Móveis,131.17,968
+116,Pelúcia,Brinquedos,305.46,730
+117,Biografia,Livros,348.35,928
+118,Biscoito,Alimentos,70.05,205
+119,Pelúcia,Brinquedos,437.38,925
+120,Cadeira,Móveis,415.42,760
+121,Biscoito,Alimentos,489.06,16
+122,História,Livros,206.52,951
+123,Serra,Ferramentas,178.73,697
+124,Carrinho,Brinquedos,189.75,809
+125,Sofá,Móveis,356.22,815
+126,Cadeira,Móveis,99.41,857
+127,Smartphone,Eletrônicos,204.6,92
+128,Pelúcia,Brinquedos,55.72,850
+129,Biografia,Livros,181.62,442
+130,Chocolate,Alimentos,264.19,625
+131,História,Livros,363.5,894
+132,Estante,Móveis,283.4,874
+133,Ficção Científica,Livros,354.4,7
+134,Carrinho,Brinquedos,244.69,515
+135,Sofá,Móveis,469.85,798
+136,Martelo,Ferramentas,401.62,807
+137,Pelúcia,Brinquedos,407.8,134
+138,Smartphone,Eletrônicos,98.18,344
+139,Mesa,Móveis,335.04,733
+140,Boneca,Brinquedos,318.55,213
+141,Notebook,Eletrônicos,204.96,208
+142,Notebook,Eletrônicos,363.32,964
+143,TV LED,Eletrônicos,106.43,148
+144,Camiseta,Roupas,285.99,200
+145,Notebook,Eletrônicos,480.36,753
+146,História,Livros,313.71,437
+147,Pelúcia,Brinquedos,122.01,871
+148,Jaqueta,Roupas,232.84,415
+149,Tablet,Eletrônicos,399.17,71
+150,Romance,Livros,318.54,271
+151,Sofá,Móveis,322.39,150
+152,Calça Jeans,Roupas,440.96,271
+153,Vestido,Roupas,464.41,110
+154,Notebook,Eletrônicos,436.85,573
+155,Cadeira,Móveis,77.42,647
+156,Shorts,Roupas,158.85,194
+157,Furadeira,Ferramentas,194.41,957
+158,Ficção Científica,Livros,32.64,250
+159,Chave de Fenda,Ferramentas,358.69,959
+160,Quebra-Cabeça,Brinquedos,454.87,108
+161,Estante,Móveis,433.76,845
+162,Camiseta,Roupas,227.83,371
+163,Café,Alimentos,451.11,770
+164,Cadeira,Móveis,124.8,64
+165,Pelúcia,Brinquedos,206.45,432
+166,Boneca,Brinquedos,59.23,537
+167,Estante,Móveis,107.33,127
+168,Carrinho,Brinquedos,360.5,639
+169,Café,Alimentos,157.45,406
+170,Sofá,Móveis,206.58,542
+171,Calça Jeans,Roupas,131.18,674
+172,Tablet,Eletrônicos,105.74,255
+173,Autoajuda,Livros,159.98,36
+174,Shorts,Roupas,313.15,600
+175,História,Livros,387.59,123
+176,Café,Alimentos,213.27,982
+177,Estante,Móveis,106.98,292
+178,Romance,Livros,322.92,896
+179,Chave de Fenda,Ferramentas,258.51,490
+180,Ficção Científica,Livros,131.85,311
+181,Calça Jeans,Roupas,239.4,882
+182,Smartwatch,Eletrônicos,353.86,673
+183,Calça Jeans,Roupas,335.94,251
+184,Lego,Brinquedos,495.08,767
+185,Mesa,Móveis,413.97,431
+186,Jaqueta,Roupas,114.25,886
+187,Smartwatch,Eletrônicos,416.37,775
+188,Tablet,Eletrônicos,63.6,809
+189,Vestido,Roupas,471.89,111
+190,Jaqueta,Roupas,102.04,237
+191,Café,Alimentos,358.0,501
+192,Mesa,Móveis,19.81,56
+193,Sofá,Móveis,215.85,808
+194,Notebook,Eletrônicos,392.51,748
+195,Biografia,Livros,275.42,96
+196,Sofá,Móveis,27.49,45
+197,Shorts,Roupas,50.73,401
+198,Smartphone,Eletrônicos,374.72,859
+199,Tablet,Eletrônicos,460.24,696
+200,Furadeira,Ferramentas,402.44,898
+201,Guarda-roupa,Móveis,432.91,176
+202,Lego,Brinquedos,254.48,253
+203,Tablet,Eletrônicos,161.62,195
+204,Café,Alimentos,254.72,295
+205,Alicate,Ferramentas,68.15,16
+206,Estante,Móveis,422.73,447
+207,Jaqueta,Roupas,168.66,675
+208,Serra,Ferramentas,43.13,53
+209,Pelúcia,Brinquedos,241.47,395
+210,Guarda-roupa,Móveis,414.32,586
+211,Ficção Científica,Livros,488.06,220
+212,Carrinho,Brinquedos,498.02,498
+213,Cadeira,Móveis,267.24,151
+214,Chocolate,Alimentos,375.26,973
+215,Smartphone,Eletrônicos,169.05,458
+216,Chave de Fenda,Ferramentas,414.66,769
+217,Shorts,Roupas,468.83,117
+218,Vestido,Roupas,205.8,1000
+219,Ficção Científica,Livros,133.41,31
+220,Smartphone,Eletrônicos,367.4,798
+221,Autoajuda,Livros,350.59,649
+222,Quebra-Cabeça,Brinquedos,110.99,381
+223,Biscoito,Alimentos,252.51,227
+224,Vestido,Roupas,30.79,305
+225,Mesa,Móveis,138.93,27
+226,Mesa,Móveis,426.36,101
+227,Pelúcia,Brinquedos,325.29,443
+228,Furadeira,Ferramentas,270.84,620
+229,Calça Jeans,Roupas,55.56,539
+230,Estante,Móveis,52.25,196
+231,Shorts,Roupas,413.98,983
+232,História,Livros,364.88,559
+233,Vestido,Roupas,237.8,545
+234,Feijão,Alimentos,332.36,74
+235,Café,Alimentos,340.79,602
+236,Martelo,Ferramentas,374.21,992
+237,Autoajuda,Livros,224.73,7
+238,Autoajuda,Livros,309.17,741
+239,Furadeira,Ferramentas,20.19,967
+240,Arroz,Alimentos,244.88,318
+241,Smartwatch,Eletrônicos,202.6,769
+242,Cadeira,Móveis,34.91,62
+243,Calça Jeans,Roupas,33.17,384
+244,TV LED,Eletrônicos,412.8,253
+245,TV LED,Eletrônicos,437.7,882
+246,Boneca,Brinquedos,480.72,569
+247,Boneca,Brinquedos,329.33,152
+248,Chocolate,Alimentos,357.99,456
+249,Cadeira,Móveis,138.78,59
+250,Guarda-roupa,Móveis,276.05,196
+251,Mesa,Móveis,143.99,656
+252,Guarda-roupa,Móveis,274.73,468
+253,Biografia,Livros,277.16,742
+254,Furadeira,Ferramentas,443.06,15
+255,Café,Alimentos,298.59,606
+256,Romance,Livros,52.51,808
+257,Biscoito,Alimentos,129.23,728
+258,Smartwatch,Eletrônicos,121.99,444
+259,História,Livros,301.68,351
+260,Tablet,Eletrônicos,36.43,425
+261,Chave de Fenda,Ferramentas,382.1,399
+262,Arroz,Alimentos,470.72,420
+263,Serra,Ferramentas,213.65,223
+264,Sofá,Móveis,376.32,70
+265,Guarda-roupa,Móveis,268.02,890
+266,Vestido,Roupas,449.03,384
+267,Alicate,Ferramentas,424.87,262
+268,TV LED,Eletrônicos,431.65,942
+269,Calça Jeans,Roupas,121.1,681
+270,Guarda-roupa,Móveis,346.82,356
+271,Jaqueta,Roupas,256.44,822
+272,TV LED,Eletrônicos,252.37,185
+273,Pelúcia,Brinquedos,331.99,945
+274,Feijão,Alimentos,74.31,176
+275,Vestido,Roupas,198.78,792
+276,Shorts,Roupas,312.92,1000
+277,Notebook,Eletrônicos,191.26,264
+278,Café,Alimentos,216.07,120
+279,Lego,Brinquedos,329.16,578
+280,Biografia,Livros,300.71,766
+281,Smartwatch,Eletrônicos,321.82,846
+282,Romance,Livros,52.64,783
+283,Sofá,Móveis,379.73,579
+284,Autoajuda,Livros,380.83,482
+285,Autoajuda,Livros,485.25,992
+286,Autoajuda,Livros,366.82,774
+287,Jaqueta,Roupas,281.14,211
+288,Café,Alimentos,497.91,268
+289,Pelúcia,Brinquedos,120.7,781
+290,Autoajuda,Livros,133.73,204
+291,Alicate,Ferramentas,292.3,999
+292,Sofá,Móveis,110.23,929
+293,Smartwatch,Eletrônicos,409.3,602
+294,Serra,Ferramentas,338.39,285
+295,Notebook,Eletrônicos,113.82,368
+296,Café,Alimentos,216.48,324
+297,Jaqueta,Roupas,282.96,396
+298,Lego,Brinquedos,461.77,244
+299,Camiseta,Roupas,80.57,898
+300,História,Livros,196.08,505
+301,Chave de Fenda,Ferramentas,40.72,617
+302,Estante,Móveis,264.48,460
+303,Mesa,Móveis,33.91,949
+304,Pelúcia,Brinquedos,18.23,589
+305,Chave de Fenda,Ferramentas,193.51,987
+306,Ficção Científica,Livros,194.35,10
+307,Cadeira,Móveis,461.23,214
+308,Martelo,Ferramentas,121.75,843
+309,Smartwatch,Eletrônicos,157.66,818
+310,Pelúcia,Brinquedos,336.35,847
+311,Guarda-roupa,Móveis,145.41,368
+312,Feijão,Alimentos,417.09,177
+313,Boneca,Brinquedos,63.06,351
+314,Furadeira,Ferramentas,462.56,261
+315,Sofá,Móveis,263.12,247
+316,Guarda-roupa,Móveis,483.14,315
+317,Tablet,Eletrônicos,130.83,627
+318,Serra,Ferramentas,25.59,64
+319,Vestido,Roupas,40.17,437
+320,Camiseta,Roupas,70.78,101
+321,Camiseta,Roupas,221.37,9
+322,Romance,Livros,466.85,8
+323,Sofá,Móveis,464.43,949
+324,Alicate,Ferramentas,370.79,556
+325,Alicate,Ferramentas,357.94,799
+326,Cadeira,Móveis,413.83,221
+327,Tablet,Eletrônicos,266.18,433
+328,Alicate,Ferramentas,138.34,154
+329,Arroz,Alimentos,493.41,154
+330,Biscoito,Alimentos,270.27,907
+331,Jaqueta,Roupas,217.94,208
+332,Cadeira,Móveis,291.68,431
+333,Arroz,Alimentos,130.75,788
+334,Carrinho,Brinquedos,312.46,67
+335,Chave de Fenda,Ferramentas,174.28,562
+336,Smartphone,Eletrônicos,489.04,511
+337,Shorts,Roupas,304.63,967
+338,Serra,Ferramentas,35.38,362
+339,Smartphone,Eletrônicos,18.72,12
+340,Alicate,Ferramentas,113.75,891
+341,Romance,Livros,411.9,190
+342,Autoajuda,Livros,60.01,166
+343,Quebra-Cabeça,Brinquedos,397.05,761
+344,Estante,Móveis,457.28,725
+345,Furadeira,Ferramentas,261.86,525
+346,Estante,Móveis,174.81,175
+347,Sofá,Móveis,448.83,161
+348,Pelúcia,Brinquedos,182.6,413
+349,Biscoito,Alimentos,291.46,906
+350,Chave de Fenda,Ferramentas,473.18,374
+351,Biscoito,Alimentos,460.32,424
+352,Camiseta,Roupas,280.27,249
+353,Alicate,Ferramentas,464.97,673
+354,Pelúcia,Brinquedos,442.62,950
+355,Smartphone,Eletrônicos,177.65,819
+356,Martelo,Ferramentas,446.4,507
+357,Cadeira,Móveis,355.63,371
+358,Pelúcia,Brinquedos,418.15,177
+359,Estante,Móveis,161.0,910
+360,Martelo,Ferramentas,429.09,831
+361,Martelo,Ferramentas,219.05,702
+362,Autoajuda,Livros,221.43,701
+363,Feijão,Alimentos,160.71,996
+364,Ficção Científica,Livros,397.36,282
+365,Smartwatch,Eletrônicos,138.61,667
+366,Pelúcia,Brinquedos,431.08,574
+367,Biscoito,Alimentos,373.81,523
+368,Biografia,Livros,102.16,600
+369,Jaqueta,Roupas,115.35,25
+370,Sofá,Móveis,47.24,778
+371,Café,Alimentos,453.16,497
+372,Sofá,Móveis,374.46,465
+373,TV LED,Eletrônicos,139.79,827
+374,Calça Jeans,Roupas,224.5,343
+375,Chocolate,Alimentos,470.26,424
+376,Smartwatch,Eletrônicos,367.53,362
+377,Alicate,Ferramentas,349.57,127
+378,Biscoito,Alimentos,164.35,942
+379,Alicate,Ferramentas,120.55,819
+380,Romance,Livros,461.26,308
+381,Sofá,Móveis,349.3,189
+382,Autoajuda,Livros,407.91,834
+383,Shorts,Roupas,374.37,715
+384,Cadeira,Móveis,109.51,398
+385,Ficção Científica,Livros,438.76,446
+386,Vestido,Roupas,466.31,840
+387,História,Livros,79.3,698
+388,Carrinho,Brinquedos,119.54,281
+389,Martelo,Ferramentas,273.13,559
+390,Vestido,Roupas,39.96,990
+391,Jaqueta,Roupas,95.56,308
+392,Feijão,Alimentos,124.31,612
+393,Ficção Científica,Livros,92.54,778
+394,Autoajuda,Livros,124.68,859
+395,Notebook,Eletrônicos,391.71,486
+396,Feijão,Alimentos,121.46,470
+397,Autoajuda,Livros,497.78,648
+398,Estante,Móveis,404.3,923
+399,Alicate,Ferramentas,331.14,884
+400,Pelúcia,Brinquedos,158.57,833
+401,Quebra-Cabeça,Brinquedos,301.16,125
+402,Smartphone,Eletrônicos,147.76,336
+403,Shorts,Roupas,407.37,471
+404,Feijão,Alimentos,428.66,391
+405,Smartwatch,Eletrônicos,253.93,854
+406,Alicate,Ferramentas,360.61,8
+407,Jaqueta,Roupas,236.41,357
+408,História,Livros,473.4,600
+409,Café,Alimentos,448.53,332
+410,Chocolate,Alimentos,270.15,681
+411,Chocolate,Alimentos,198.34,925
+412,História,Livros,185.31,536
+413,Cadeira,Móveis,441.02,197
+414,Boneca,Brinquedos,300.27,258
+415,Serra,Ferramentas,31.78,710
+416,Carrinho,Brinquedos,326.3,341
+417,Shorts,Roupas,108.04,434
+418,Alicate,Ferramentas,493.84,512
+419,Estante,Móveis,227.48,1
+420,História,Livros,278.29,943
+421,Romance,Livros,397.02,229
+422,Calça Jeans,Roupas,84.69,813
+423,Shorts,Roupas,31.34,243
+424,Biscoito,Alimentos,485.89,404
+425,TV LED,Eletrônicos,396.1,147
+426,Lego,Brinquedos,381.05,972
+427,Biografia,Livros,385.23,265
+428,Chocolate,Alimentos,114.9,347
+429,Cadeira,Móveis,112.39,756
+430,Biscoito,Alimentos,267.71,434
+431,Biografia,Livros,487.48,54
+432,Calça Jeans,Roupas,487.06,249
+433,Café,Alimentos,162.05,423
+434,Pelúcia,Brinquedos,238.59,122
+435,Calça Jeans,Roupas,432.09,177
+436,Shorts,Roupas,239.73,978
+437,Biscoito,Alimentos,322.71,89
+438,Café,Alimentos,444.76,973
+439,Chocolate,Alimentos,166.35,286
+440,Camiseta,Roupas,343.19,245
+441,Romance,Livros,417.31,925
+442,Cadeira,Móveis,329.53,212
+443,Jaqueta,Roupas,205.65,991
+444,Smartphone,Eletrônicos,195.19,356
+445,Lego,Brinquedos,242.9,401
+446,Notebook,Eletrônicos,410.27,682
+447,Alicate,Ferramentas,53.96,756
+448,Shorts,Roupas,360.83,755
+449,Lego,Brinquedos,219.19,27
+450,Biografia,Livros,209.96,700
+451,Biscoito,Alimentos,491.83,172
+452,Martelo,Ferramentas,256.01,410
+453,Quebra-Cabeça,Brinquedos,173.45,678
+454,Serra,Ferramentas,128.3,292
+455,Sofá,Móveis,12.65,271
+456,Autoajuda,Livros,295.74,760
+457,Sofá,Móveis,74.69,168
+458,Furadeira,Ferramentas,202.7,870
+459,Autoajuda,Livros,85.83,497
+460,Biscoito,Alimentos,235.54,233
+461,Feijão,Alimentos,292.06,498
+462,Carrinho,Brinquedos,363.44,531
+463,Café,Alimentos,137.21,316
+464,TV LED,Eletrônicos,451.3,255
+465,Arroz,Alimentos,473.59,67
+466,Boneca,Brinquedos,33.91,771
+467,Shorts,Roupas,416.15,422
+468,Mesa,Móveis,281.73,787
+469,Mesa,Móveis,389.91,392
+470,Serra,Ferramentas,240.34,489
+471,Smartwatch,Eletrônicos,481.44,911
+472,História,Livros,46.9,17
+473,Autoajuda,Livros,442.71,235
+474,Mesa,Móveis,380.87,188
+475,Shorts,Roupas,14.51,681
+476,Lego,Brinquedos,72.02,374
+477,Cadeira,Móveis,177.74,589
+478,Smartwatch,Eletrônicos,353.46,747
+479,Romance,Livros,386.38,547
+480,Chocolate,Alimentos,292.37,872
+481,Martelo,Ferramentas,100.71,709
+482,Jaqueta,Roupas,230.3,631
+483,Mesa,Móveis,259.88,460
+484,Chocolate,Alimentos,350.4,933
+485,Café,Alimentos,280.5,194
+486,Sofá,Móveis,50.08,960
+487,Biografia,Livros,161.56,518
+488,Boneca,Brinquedos,237.85,341
+489,Pelúcia,Brinquedos,249.35,16
+490,Furadeira,Ferramentas,432.09,212
+491,Vestido,Roupas,284.05,664
+492,Furadeira,Ferramentas,135.44,970
+493,Autoajuda,Livros,243.42,187
+494,Calça Jeans,Roupas,443.98,254
+495,Estante,Móveis,30.09,391
+496,Camiseta,Roupas,216.65,267
+497,Arroz,Alimentos,499.19,475
+498,Café,Alimentos,482.49,720
+499,Lego,Brinquedos,469.54,2
+500,Chave de Fenda,Ferramentas,282.06,265
+501,Autoajuda,Livros,208.04,651
+502,Smartphone,Eletrônicos,61.9,281
+503,Smartphone,Eletrônicos,376.5,853
+504,Cadeira,Móveis,379.85,439
+505,Chave de Fenda,Ferramentas,21.08,950
+506,Feijão,Alimentos,239.29,522
+507,Mesa,Móveis,344.9,506
+508,Smartphone,Eletrônicos,322.61,58
+509,Camiseta,Roupas,13.2,967
+510,Biografia,Livros,352.7,963
+511,Ficção Científica,Livros,446.4,997
+512,Carrinho,Brinquedos,87.41,402
+513,Lego,Brinquedos,102.56,712
+514,Cadeira,Móveis,346.36,158
+515,História,Livros,355.93,779
+516,Chocolate,Alimentos,497.67,865
+517,Mesa,Móveis,191.68,442
+518,História,Livros,185.86,352
+519,Alicate,Ferramentas,443.54,359
+520,TV LED,Eletrônicos,336.88,204
+521,Quebra-Cabeça,Brinquedos,148.69,495
+522,História,Livros,425.2,894
+523,Romance,Livros,80.49,382
+524,Boneca,Brinquedos,275.91,439
+525,Chocolate,Alimentos,195.06,583
+526,Calça Jeans,Roupas,295.06,362
+527,Quebra-Cabeça,Brinquedos,393.92,659
+528,Guarda-roupa,Móveis,246.9,306
+529,TV LED,Eletrônicos,66.17,248
+530,Romance,Livros,124.55,302
+531,História,Livros,470.8,838
+532,Chocolate,Alimentos,122.76,743
+533,Mesa,Móveis,461.2,44
+534,Chave de Fenda,Ferramentas,109.19,91
+535,Arroz,Alimentos,39.59,914
+536,Calça Jeans,Roupas,69.03,392
+537,Chocolate,Alimentos,51.73,251
+538,Biscoito,Alimentos,37.6,480
+539,Ficção Científica,Livros,374.55,460
+540,Quebra-Cabeça,Brinquedos,213.82,394
+541,Estante,Móveis,23.33,907
+542,Ficção Científica,Livros,207.79,296
+543,Arroz,Alimentos,14.49,947
+544,Sofá,Móveis,410.15,599
+545,Mesa,Móveis,180.89,752
+546,Cadeira,Móveis,460.91,615
+547,Mesa,Móveis,202.37,885
+548,Smartwatch,Eletrônicos,208.09,742
+549,Café,Alimentos,494.74,145
+550,Furadeira,Ferramentas,86.12,394
+551,Romance,Livros,336.79,484
+552,Guarda-roupa,Móveis,400.99,363
+553,TV LED,Eletrônicos,136.0,325
+554,Mesa,Móveis,444.63,891
+555,Chave de Fenda,Ferramentas,60.35,964
+556,Chocolate,Alimentos,270.9,689
+557,Alicate,Ferramentas,372.58,166
+558,Cadeira,Móveis,489.01,412
+559,Alicate,Ferramentas,74.42,280
+560,Arroz,Alimentos,434.58,768
+561,Shorts,Roupas,200.4,161
+562,Jaqueta,Roupas,362.26,183
+563,Smartphone,Eletrônicos,84.28,921
+564,Smartphone,Eletrônicos,470.81,697
+565,Biscoito,Alimentos,71.85,933
+566,Carrinho,Brinquedos,366.79,470
+567,Jaqueta,Roupas,253.08,990
+568,Sofá,Móveis,322.29,943
+569,Café,Alimentos,10.65,426
+570,Martelo,Ferramentas,311.89,851
+571,Ficção Científica,Livros,36.6,21
+572,Café,Alimentos,262.57,454
+573,Ficção Científica,Livros,79.9,525
+574,Arroz,Alimentos,465.2,536
+575,Guarda-roupa,Móveis,180.51,744
+576,Chave de Fenda,Ferramentas,429.85,472
+577,Ficção Científica,Livros,367.81,252
+578,Cadeira,Móveis,155.05,719
+579,Notebook,Eletrônicos,360.15,472
+580,Shorts,Roupas,355.82,905
+581,Feijão,Alimentos,359.98,456
+582,Biscoito,Alimentos,357.59,115
+583,Camiseta,Roupas,299.43,900
+584,Biografia,Livros,342.12,172
+585,Chave de Fenda,Ferramentas,48.51,106
+586,Lego,Brinquedos,431.99,86
+587,Pelúcia,Brinquedos,69.64,789
+588,Serra,Ferramentas,109.42,835
+589,Quebra-Cabeça,Brinquedos,44.76,779
+590,Smartphone,Eletrônicos,463.69,328
+591,Jaqueta,Roupas,228.07,700
+592,Cadeira,Móveis,408.2,184
+593,Notebook,Eletrônicos,366.56,540
+594,Cadeira,Móveis,92.83,130
+595,Autoajuda,Livros,176.78,71
+596,Pelúcia,Brinquedos,107.14,427
+597,Biscoito,Alimentos,373.64,202
+598,Jaqueta,Roupas,105.22,674
+599,Serra,Ferramentas,310.99,677
+600,Mesa,Móveis,44.37,405
+601,Notebook,Eletrônicos,220.41,967
+602,Pelúcia,Brinquedos,494.12,420
+603,Pelúcia,Brinquedos,224.88,249
+604,Pelúcia,Brinquedos,67.03,523
+605,Tablet,Eletrônicos,470.95,220
+606,Carrinho,Brinquedos,135.72,744
+607,Vestido,Roupas,351.66,496
+608,Mesa,Móveis,40.64,275
+609,Autoajuda,Livros,345.23,121
+610,Alicate,Ferramentas,332.82,188
+611,Vestido,Roupas,77.51,461
+612,Romance,Livros,111.21,845
+613,Shorts,Roupas,192.05,35
+614,Biografia,Livros,374.39,114
+615,Quebra-Cabeça,Brinquedos,183.11,359
+616,História,Livros,42.95,261
+617,Camiseta,Roupas,467.15,735
+618,Ficção Científica,Livros,258.6,510
+619,Chocolate,Alimentos,64.42,465
+620,Café,Alimentos,389.31,65
+621,Café,Alimentos,341.04,731
+622,Cadeira,Móveis,51.72,131
+623,Furadeira,Ferramentas,65.25,699
+624,TV LED,Eletrônicos,15.34,334
+625,Quebra-Cabeça,Brinquedos,410.73,816
+626,História,Livros,278.84,983
+627,Biscoito,Alimentos,258.22,438
+628,Notebook,Eletrônicos,327.18,8
+629,Guarda-roupa,Móveis,490.61,233
+630,Notebook,Eletrônicos,422.42,282
+631,Romance,Livros,360.3,663
+632,Biscoito,Alimentos,213.89,621
+633,Shorts,Roupas,310.85,505
+634,História,Livros,85.56,722
+635,Serra,Ferramentas,110.95,616
+636,Autoajuda,Livros,100.51,12
+637,Mesa,Móveis,218.51,735
+638,Calça Jeans,Roupas,303.3,890
+639,Carrinho,Brinquedos,489.64,23
+640,História,Livros,430.86,178
+641,Feijão,Alimentos,448.31,160
+642,Mesa,Móveis,379.51,868
+643,Smartphone,Eletrônicos,429.16,143
+644,Tablet,Eletrônicos,370.88,663
+645,Carrinho,Brinquedos,181.31,525
+646,Romance,Livros,239.53,343
+647,Alicate,Ferramentas,417.61,623
+648,Cadeira,Móveis,152.74,156
+649,Café,Alimentos,165.03,881
+650,Shorts,Roupas,458.37,313
+651,Notebook,Eletrônicos,211.02,868
+652,Guarda-roupa,Móveis,215.14,260
+653,Biscoito,Alimentos,473.47,274
+654,Mesa,Móveis,74.66,728
+655,Martelo,Ferramentas,364.69,127
+656,Tablet,Eletrônicos,62.87,761
+657,Smartphone,Eletrônicos,307.36,934
+658,Carrinho,Brinquedos,430.07,79
+659,Estante,Móveis,188.5,103
+660,Pelúcia,Brinquedos,452.38,380
+661,Sofá,Móveis,214.25,914
+662,Biscoito,Alimentos,480.79,491
+663,Pelúcia,Brinquedos,22.21,614
+664,Camiseta,Roupas,241.81,730
+665,Sofá,Móveis,487.1,490
+666,Furadeira,Ferramentas,59.14,417
+667,Café,Alimentos,24.79,471
+668,Chocolate,Alimentos,147.28,444
+669,Smartphone,Eletrônicos,201.88,117
+670,Pelúcia,Brinquedos,217.82,91
+671,Smartwatch,Eletrônicos,197.1,563
+672,Lego,Brinquedos,66.73,413
+673,Smartphone,Eletrônicos,152.02,782
+674,Chocolate,Alimentos,255.21,275
+675,Estante,Móveis,284.9,817
+676,Romance,Livros,101.46,950
+677,Guarda-roupa,Móveis,293.19,472
+678,Notebook,Eletrônicos,264.76,66
+679,Serra,Ferramentas,207.26,649
+680,Arroz,Alimentos,460.05,934
+681,Camiseta,Roupas,123.83,339
+682,Calça Jeans,Roupas,276.1,73
+683,Mesa,Móveis,203.56,334
+684,Tablet,Eletrônicos,419.85,620
+685,Boneca,Brinquedos,471.07,464
+686,Estante,Móveis,31.46,362
+687,Martelo,Ferramentas,94.51,828
+688,Smartphone,Eletrônicos,258.64,133
+689,Quebra-Cabeça,Brinquedos,462.73,666
+690,Jaqueta,Roupas,79.0,821
+691,Autoajuda,Livros,20.02,687
+692,TV LED,Eletrônicos,38.8,27
+693,Tablet,Eletrônicos,299.84,522
+694,Calça Jeans,Roupas,81.45,604
+695,Biscoito,Alimentos,77.85,789
+696,Chave de Fenda,Ferramentas,461.91,380
+697,Chave de Fenda,Ferramentas,47.88,916
+698,Guarda-roupa,Móveis,281.73,603
+699,Biscoito,Alimentos,238.13,496
+700,Sofá,Móveis,274.63,352
+701,Feijão,Alimentos,100.22,896
+702,Quebra-Cabeça,Brinquedos,56.51,548
+703,Pelúcia,Brinquedos,335.89,603
+704,Alicate,Ferramentas,302.67,1000
+705,Chave de Fenda,Ferramentas,474.27,117
+706,Estante,Móveis,116.24,693
+707,Notebook,Eletrônicos,285.64,322
+708,Sofá,Móveis,343.53,886
+709,Notebook,Eletrônicos,289.6,40
+710,Café,Alimentos,199.95,703
+711,Smartwatch,Eletrônicos,63.55,795
+712,Pelúcia,Brinquedos,97.12,856
+713,Pelúcia,Brinquedos,421.54,683
+714,Guarda-roupa,Móveis,484.96,234
+715,Ficção Científica,Livros,115.43,1000
+716,Guarda-roupa,Móveis,403.2,324
+717,Biografia,Livros,97.95,524
+718,Chave de Fenda,Ferramentas,439.26,855
+719,Ficção Científica,Livros,230.19,154
+720,Quebra-Cabeça,Brinquedos,393.05,232
+721,Alicate,Ferramentas,403.97,634
+722,Sofá,Móveis,474.21,964
+723,Carrinho,Brinquedos,492.19,977
+724,Quebra-Cabeça,Brinquedos,241.13,617
+725,Shorts,Roupas,219.19,572
+726,Furadeira,Ferramentas,141.42,7
+727,Smartwatch,Eletrônicos,138.31,792
+728,TV LED,Eletrônicos,418.99,942
+729,Biscoito,Alimentos,262.87,651
+730,Smartphone,Eletrônicos,168.18,323
+731,Camiseta,Roupas,22.9,538
+732,Serra,Ferramentas,364.8,18
+733,Pelúcia,Brinquedos,342.45,397
+734,Ficção Científica,Livros,87.03,650
+735,Tablet,Eletrônicos,393.94,837
+736,Smartphone,Eletrônicos,77.53,901
+737,Serra,Ferramentas,182.11,201
+738,TV LED,Eletrônicos,302.98,903
+739,Lego,Brinquedos,217.12,76
+740,Quebra-Cabeça,Brinquedos,318.76,24
+741,Cadeira,Móveis,144.47,742
+742,Autoajuda,Livros,458.24,711
+743,Cadeira,Móveis,294.71,236
+744,Notebook,Eletrônicos,157.75,88
+745,Sofá,Móveis,125.96,414
+746,Feijão,Alimentos,47.1,935
+747,Sofá,Móveis,376.37,802
+748,Estante,Móveis,417.11,19
+749,Boneca,Brinquedos,269.42,350
+750,Vestido,Roupas,224.05,331
+751,Chave de Fenda,Ferramentas,124.72,418
+752,História,Livros,393.2,827
+753,Cadeira,Móveis,453.11,414
+754,Smartphone,Eletrônicos,297.0,224
+755,Autoajuda,Livros,83.1,569
+756,Biscoito,Alimentos,322.44,996
+757,Biografia,Livros,276.33,616
+758,Café,Alimentos,147.67,562
+759,Autoajuda,Livros,82.91,793
+760,Café,Alimentos,130.23,454
+761,Martelo,Ferramentas,410.36,867
+762,Alicate,Ferramentas,125.34,988
+763,Furadeira,Ferramentas,31.63,746
+764,Alicate,Ferramentas,166.22,743
+765,Autoajuda,Livros,310.02,940
+766,Calça Jeans,Roupas,485.67,803
+767,Alicate,Ferramentas,161.34,372
+768,TV LED,Eletrônicos,433.15,601
+769,Chave de Fenda,Ferramentas,105.2,314
+770,Chocolate,Alimentos,69.77,287
+771,História,Livros,306.01,410
+772,Alicate,Ferramentas,47.0,251
+773,Furadeira,Ferramentas,387.05,107
+774,História,Livros,66.11,537
+775,Chocolate,Alimentos,37.97,719
+776,Quebra-Cabeça,Brinquedos,471.88,170
+777,TV LED,Eletrônicos,219.08,385
+778,Tablet,Eletrônicos,249.55,212
+779,Notebook,Eletrônicos,353.76,738
+780,TV LED,Eletrônicos,36.45,603
+781,Chave de Fenda,Ferramentas,216.07,873
+782,TV LED,Eletrônicos,144.96,145
+783,Pelúcia,Brinquedos,387.59,330
+784,TV LED,Eletrônicos,339.09,720
+785,Autoajuda,Livros,459.8,739
+786,Autoajuda,Livros,15.74,572
+787,Notebook,Eletrônicos,135.07,341
+788,Arroz,Alimentos,418.69,901
+789,Calça Jeans,Roupas,155.27,965
+790,Lego,Brinquedos,467.46,158
+791,Autoajuda,Livros,162.17,489
+792,Boneca,Brinquedos,329.59,110
+793,TV LED,Eletrônicos,403.96,172
+794,Quebra-Cabeça,Brinquedos,242.86,11
+795,Serra,Ferramentas,445.87,523
+796,Biscoito,Alimentos,417.68,415
+797,História,Livros,465.25,526
+798,Biografia,Livros,67.03,799
+799,Boneca,Brinquedos,492.25,636
+800,Chocolate,Alimentos,86.87,195
+801,Smartphone,Eletrônicos,80.33,544
+802,Sofá,Móveis,490.89,172
+803,Lego,Brinquedos,33.28,685
+804,Cadeira,Móveis,133.51,642
+805,Biografia,Livros,372.18,893
+806,Autoajuda,Livros,105.64,35
+807,Feijão,Alimentos,20.23,989
+808,Sofá,Móveis,65.51,153
+809,Shorts,Roupas,431.26,75
+810,Ficção Científica,Livros,372.82,243
+811,Smartwatch,Eletrônicos,105.61,358
+812,Guarda-roupa,Móveis,130.71,200
+813,Shorts,Roupas,337.87,655
+814,Chocolate,Alimentos,493.45,785
+815,Smartwatch,Eletrônicos,137.23,829
+816,Martelo,Ferramentas,278.56,684
+817,Mesa,Móveis,365.57,398
+818,Quebra-Cabeça,Brinquedos,172.73,789
+819,Tablet,Eletrônicos,26.49,612
+820,Jaqueta,Roupas,405.1,708
+821,Chocolate,Alimentos,449.33,696
+822,Ficção Científica,Livros,158.68,625
+823,Notebook,Eletrônicos,428.4,905
+824,Smartwatch,Eletrônicos,293.37,153
+825,Chave de Fenda,Ferramentas,381.84,875
+826,Quebra-Cabeça,Brinquedos,132.2,152
+827,Feijão,Alimentos,191.59,679
+828,Alicate,Ferramentas,86.91,53
+829,Camiseta,Roupas,157.21,858
+830,Martelo,Ferramentas,443.3,916
+831,Carrinho,Brinquedos,402.95,832
+832,Biografia,Livros,22.79,900
+833,Autoajuda,Livros,348.89,978
+834,Calça Jeans,Roupas,208.33,798
+835,Pelúcia,Brinquedos,368.75,543
+836,Smartwatch,Eletrônicos,413.83,753
+837,Serra,Ferramentas,45.49,635
+838,Carrinho,Brinquedos,114.1,57
+839,Carrinho,Brinquedos,393.22,830
+840,Chave de Fenda,Ferramentas,355.95,156
+841,Café,Alimentos,372.82,980
+842,Feijão,Alimentos,232.06,118
+843,Biscoito,Alimentos,280.53,518
+844,Autoajuda,Livros,468.04,915
+845,Notebook,Eletrônicos,249.83,123
+846,Quebra-Cabeça,Brinquedos,283.16,274
+847,Café,Alimentos,356.52,86
+848,Chocolate,Alimentos,107.64,358
+849,Autoajuda,Livros,495.12,47
+850,Pelúcia,Brinquedos,109.93,524
+851,Calça Jeans,Roupas,425.25,635
+852,Romance,Livros,20.69,614
+853,História,Livros,151.12,868
+854,Estante,Móveis,49.84,966
+855,Camiseta,Roupas,374.77,477
+856,Carrinho,Brinquedos,328.57,54
+857,Carrinho,Brinquedos,83.5,871
+858,Biografia,Livros,498.83,590
+859,Pelúcia,Brinquedos,31.42,202
+860,História,Livros,354.06,876
+861,Tablet,Eletrônicos,163.31,418
+862,Sofá,Móveis,28.49,132
+863,Martelo,Ferramentas,331.13,21
+864,Cadeira,Móveis,395.88,908
+865,Autoajuda,Livros,134.41,173
+866,Romance,Livros,290.21,532
+867,Notebook,Eletrônicos,133.2,590
+868,Biscoito,Alimentos,170.45,856
+869,História,Livros,189.93,936
+870,Tablet,Eletrônicos,360.45,359
+871,Chave de Fenda,Ferramentas,47.4,635
+872,TV LED,Eletrônicos,115.87,248
+873,Boneca,Brinquedos,162.36,420
+874,Café,Alimentos,218.99,741
+875,Lego,Brinquedos,342.32,664
+876,Tablet,Eletrônicos,66.5,535
+877,Calça Jeans,Roupas,212.34,361
+878,Alicate,Ferramentas,108.32,158
+879,Tablet,Eletrônicos,316.71,393
+880,Shorts,Roupas,374.23,134
+881,Tablet,Eletrônicos,161.01,201
+882,Tablet,Eletrônicos,319.8,489
+883,Quebra-Cabeça,Brinquedos,123.36,678
+884,Chave de Fenda,Ferramentas,370.93,627
+885,Feijão,Alimentos,15.87,164
+886,Pelúcia,Brinquedos,471.81,857
+887,História,Livros,78.94,164
+888,Feijão,Alimentos,183.38,34
+889,Autoajuda,Livros,354.79,142
+890,Sofá,Móveis,486.97,18
+891,Sofá,Móveis,36.5,64
+892,Biscoito,Alimentos,437.44,862
+893,Smartwatch,Eletrônicos,108.61,281
+894,Notebook,Eletrônicos,233.41,433
+895,Autoajuda,Livros,134.95,230
+896,Romance,Livros,429.63,782
+897,Furadeira,Ferramentas,27.54,103
+898,Boneca,Brinquedos,417.44,215
+899,Camiseta,Roupas,194.83,183
+900,Mesa,Móveis,360.1,489
+901,História,Livros,138.25,530
+902,Ficção Científica,Livros,309.42,138
+903,Smartphone,Eletrônicos,454.66,404
+904,Quebra-Cabeça,Brinquedos,423.85,199
+905,Lego,Brinquedos,452.35,479
+906,Biografia,Livros,25.54,977
+907,Smartwatch,Eletrônicos,278.31,365
+908,Guarda-roupa,Móveis,465.31,982
+909,Guarda-roupa,Móveis,147.98,299
+910,Sofá,Móveis,424.83,299
+911,Smartphone,Eletrônicos,149.1,513
+912,Smartwatch,Eletrônicos,423.49,780
+913,Café,Alimentos,215.74,258
+914,Martelo,Ferramentas,410.74,939
+915,Sofá,Móveis,205.41,416
+916,Arroz,Alimentos,308.17,475
+917,Shorts,Roupas,216.55,408
+918,Serra,Ferramentas,83.94,136
+919,Arroz,Alimentos,17.98,217
+920,Smartwatch,Eletrônicos,390.45,275
+921,Autoajuda,Livros,326.6,894
+922,Chocolate,Alimentos,437.02,29
+923,Cadeira,Móveis,88.83,761
+924,Lego,Brinquedos,60.14,86
+925,Biografia,Livros,414.91,371
+926,Tablet,Eletrônicos,393.43,700
+927,Tablet,Eletrônicos,215.8,74
+928,TV LED,Eletrônicos,373.54,13
+929,Carrinho,Brinquedos,123.35,11
+930,Biografia,Livros,230.94,817
+931,Chave de Fenda,Ferramentas,337.04,151
+932,Arroz,Alimentos,394.61,647
+933,Carrinho,Brinquedos,197.94,800
+934,Shorts,Roupas,240.55,611
+935,Serra,Ferramentas,337.56,920
+936,Alicate,Ferramentas,483.93,187
+937,Serra,Ferramentas,462.19,329
+938,Autoajuda,Livros,209.23,477
+939,Ficção Científica,Livros,168.22,359
+940,Feijão,Alimentos,416.18,420
+941,Furadeira,Ferramentas,155.0,789
+942,Carrinho,Brinquedos,341.44,60
+943,Notebook,Eletrônicos,430.2,781
+944,Autoajuda,Livros,492.91,769
+945,Mesa,Móveis,438.08,740
+946,Lego,Brinquedos,304.05,714
+947,Camiseta,Roupas,215.31,380
+948,Jaqueta,Roupas,284.94,609
+949,Smartphone,Eletrônicos,293.33,532
+950,Lego,Brinquedos,458.72,835
+951,Ficção Científica,Livros,490.76,474
+952,Lego,Brinquedos,261.28,497
+953,Quebra-Cabeça,Brinquedos,131.67,105
+954,Mesa,Móveis,471.97,806
+955,Smartwatch,Eletrônicos,402.6,374
+956,Biografia,Livros,45.91,144
+957,Smartwatch,Eletrônicos,87.95,504
+958,Jaqueta,Roupas,100.07,575
+959,Estante,Móveis,440.83,298
+960,Biscoito,Alimentos,43.82,496
+961,Feijão,Alimentos,154.19,577
+962,Feijão,Alimentos,300.53,629
+963,Estante,Móveis,498.42,381
+964,Furadeira,Ferramentas,194.93,962
+965,Cadeira,Móveis,16.46,741
+966,Pelúcia,Brinquedos,105.3,621
+967,Chave de Fenda,Ferramentas,352.56,60
+968,Jaqueta,Roupas,67.83,999
+969,Arroz,Alimentos,374.44,662
+970,Pelúcia,Brinquedos,51.19,638
+971,Romance,Livros,324.95,757
+972,Chocolate,Alimentos,322.97,762
+973,Lego,Brinquedos,22.83,138
+974,Café,Alimentos,340.6,936
+975,Lego,Brinquedos,101.71,921
+976,Sofá,Móveis,354.45,64
+977,Calça Jeans,Roupas,443.72,993
+978,Guarda-roupa,Móveis,248.34,199
+979,Quebra-Cabeça,Brinquedos,325.95,300
+980,Pelúcia,Brinquedos,127.06,579
+981,Quebra-Cabeça,Brinquedos,14.28,56
+982,Romance,Livros,406.71,724
+983,Autoajuda,Livros,74.57,667
+984,Quebra-Cabeça,Brinquedos,251.77,522
+985,História,Livros,93.81,445
+986,Chave de Fenda,Ferramentas,282.84,519
+987,Feijão,Alimentos,24.71,247
+988,Arroz,Alimentos,430.34,745
+989,Shorts,Roupas,98.88,538
+990,Feijão,Alimentos,268.26,668
+991,Camiseta,Roupas,441.44,596
+992,Calça Jeans,Roupas,113.3,447
+993,Feijão,Alimentos,306.04,94
+994,Estante,Móveis,110.14,634
+995,Estante,Móveis,433.8,535
+996,TV LED,Eletrônicos,271.51,654
+997,Notebook,Eletrônicos,415.68,183
+998,Furadeira,Ferramentas,458.77,225
+999,Biografia,Livros,93.24,696
+1000,Chave de Fenda,Ferramentas,137.62,899
+1001,Smartwatch,Eletrônicos,64.89,472
+1002,Carrinho,Brinquedos,439.59,860
+1003,Romance,Livros,338.52,89
+1004,TV LED,Eletrônicos,342.41,780
+1005,Quebra-Cabeça,Brinquedos,72.38,720
+1006,Alicate,Ferramentas,154.49,982
+1007,Cadeira,Móveis,393.31,827
+1008,Café,Alimentos,87.42,236
+1009,Guarda-roupa,Móveis,24.04,865
+1010,Shorts,Roupas,441.54,925
+1011,Quebra-Cabeça,Brinquedos,187.18,220
+1012,Martelo,Ferramentas,38.39,521
+1013,Chocolate,Alimentos,53.28,545
+1014,Alicate,Ferramentas,455.71,1000
+1015,Smartphone,Eletrônicos,95.5,51
+1016,Autoajuda,Livros,214.95,88
+1017,Estante,Móveis,239.06,828
+1018,Carrinho,Brinquedos,100.08,746
+1019,Biografia,Livros,397.33,216
+1020,Ficção Científica,Livros,427.3,516
+1021,Martelo,Ferramentas,32.81,658
+1022,Martelo,Ferramentas,327.58,224
+1023,Estante,Móveis,391.29,352
+1024,Boneca,Brinquedos,427.22,908
+1025,Chave de Fenda,Ferramentas,68.39,719
+1026,Shorts,Roupas,59.75,727
+1027,Smartphone,Eletrônicos,156.73,596
+1028,Chocolate,Alimentos,134.05,328
+1029,Mesa,Móveis,265.46,28
+1030,Guarda-roupa,Móveis,234.77,37
+1031,Jaqueta,Roupas,301.5,222
+1032,Martelo,Ferramentas,270.67,453
+1033,Guarda-roupa,Móveis,106.13,788
+1034,Martelo,Ferramentas,129.77,878
+1035,Chave de Fenda,Ferramentas,215.86,639
+1036,Furadeira,Ferramentas,126.83,476
+1037,Autoajuda,Livros,120.17,275
+1038,História,Livros,264.03,722
+1039,Serra,Ferramentas,442.73,10
+1040,Pelúcia,Brinquedos,343.5,443
+1041,Café,Alimentos,219.38,103
+1042,Biografia,Livros,49.1,408
+1043,Lego,Brinquedos,106.58,4
+1044,Smartphone,Eletrônicos,286.72,365
+1045,Quebra-Cabeça,Brinquedos,326.94,792
+1046,Carrinho,Brinquedos,152.77,719
+1047,Arroz,Alimentos,214.97,40
+1048,TV LED,Eletrônicos,406.44,122
+1049,Mesa,Móveis,11.63,581
+1050,Sofá,Móveis,443.56,253
+1051,Romance,Livros,280.36,811
+1052,Sofá,Móveis,384.9,541
+1053,Ficção Científica,Livros,296.96,319
+1054,Notebook,Eletrônicos,341.18,589
+1055,Tablet,Eletrônicos,374.8,217
+1056,Cadeira,Móveis,396.98,664
+1057,Lego,Brinquedos,250.22,5
+1058,Guarda-roupa,Móveis,306.07,993
+1059,Shorts,Roupas,67.71,510
+1060,Pelúcia,Brinquedos,452.6,298
+1061,Camiseta,Roupas,301.59,954
+1062,Lego,Brinquedos,260.47,153
+1063,Serra,Ferramentas,443.16,503
+1064,Pelúcia,Brinquedos,180.0,733
+1065,Alicate,Ferramentas,435.47,738
+1066,Romance,Livros,51.07,599
+1067,Sofá,Móveis,203.19,847
+1068,Autoajuda,Livros,33.15,933
+1069,Café,Alimentos,385.2,133
+1070,Alicate,Ferramentas,495.36,291
+1071,Romance,Livros,99.12,112
+1072,TV LED,Eletrônicos,59.44,882
+1073,Feijão,Alimentos,97.64,894
+1074,Smartphone,Eletrônicos,234.86,433
+1075,Lego,Brinquedos,15.06,663
+1076,Quebra-Cabeça,Brinquedos,361.72,836
+1077,Cadeira,Móveis,475.92,195
+1078,Autoajuda,Livros,105.34,544
+1079,Biografia,Livros,327.43,438
+1080,Chave de Fenda,Ferramentas,146.55,735
+1081,Smartphone,Eletrônicos,411.13,440
+1082,Serra,Ferramentas,435.43,335
+1083,Boneca,Brinquedos,75.44,233
+1084,Calça Jeans,Roupas,255.25,184
+1085,Autoajuda,Livros,11.98,176
+1086,Romance,Livros,85.21,42
+1087,Estante,Móveis,177.42,34
+1088,Arroz,Alimentos,54.54,894
+1089,Pelúcia,Brinquedos,79.59,962
+1090,Notebook,Eletrônicos,407.15,613
+1091,Martelo,Ferramentas,470.42,508
+1092,Biscoito,Alimentos,189.14,101
+1093,Arroz,Alimentos,461.79,827
+1094,Lego,Brinquedos,366.41,814
+1095,Biografia,Livros,382.43,755
+1096,Shorts,Roupas,112.52,357
+1097,Smartphone,Eletrônicos,462.77,638
+1098,Boneca,Brinquedos,389.74,205
+1099,Estante,Móveis,371.27,118
+1100,Furadeira,Ferramentas,122.38,81
+1101,Carrinho,Brinquedos,307.59,596
+1102,Estante,Móveis,411.31,903
+1103,Furadeira,Ferramentas,249.09,329
+1104,Ficção Científica,Livros,442.27,659
+1105,Vestido,Roupas,493.97,148
+1106,Ficção Científica,Livros,48.76,983
+1107,História,Livros,434.87,747
+1108,Cadeira,Móveis,85.52,251
+1109,Boneca,Brinquedos,78.58,824
+1110,Guarda-roupa,Móveis,491.86,957
+1111,Ficção Científica,Livros,458.94,55
+1112,Biografia,Livros,94.64,733
+1113,Arroz,Alimentos,269.94,630
+1114,Martelo,Ferramentas,390.04,448
+1115,Cadeira,Móveis,195.69,574
+1116,Biscoito,Alimentos,80.28,47
+1117,Martelo,Ferramentas,227.62,82
+1118,Biografia,Livros,64.52,336
+1119,Martelo,Ferramentas,39.92,72
+1120,Serra,Ferramentas,315.61,82
+1121,Camiseta,Roupas,142.11,667
+1122,Calça Jeans,Roupas,445.87,516
+1123,Furadeira,Ferramentas,169.92,974
+1124,Quebra-Cabeça,Brinquedos,423.06,549
+1125,Camiseta,Roupas,224.2,843
+1126,Feijão,Alimentos,65.44,98
+1127,Serra,Ferramentas,411.5,813
+1128,Martelo,Ferramentas,64.99,273
+1129,Sofá,Móveis,309.2,930
+1130,Carrinho,Brinquedos,182.93,511
+1131,Mesa,Móveis,292.48,354
+1132,Calça Jeans,Roupas,27.98,151
+1133,Shorts,Roupas,463.72,517
+1134,Notebook,Eletrônicos,289.06,248
+1135,Tablet,Eletrônicos,183.45,691
+1136,Calça Jeans,Roupas,177.66,200
+1137,Biscoito,Alimentos,112.12,931
+1138,Lego,Brinquedos,322.72,3
+1139,Jaqueta,Roupas,21.31,700
+1140,Calça Jeans,Roupas,107.39,20
+1141,Boneca,Brinquedos,61.23,673
+1142,Café,Alimentos,59.19,789
+1143,Biscoito,Alimentos,189.89,442
+1144,Café,Alimentos,268.53,691
+1145,Alicate,Ferramentas,349.3,813
+1146,Alicate,Ferramentas,276.36,61
+1147,Tablet,Eletrônicos,245.33,381
+1148,Boneca,Brinquedos,270.31,234
+1149,Notebook,Eletrônicos,14.88,523
+1150,Pelúcia,Brinquedos,125.33,639
+1151,Alicate,Ferramentas,112.58,348
+1152,Sofá,Móveis,201.03,246
+1153,Alicate,Ferramentas,139.62,837
+1154,Smartwatch,Eletrônicos,299.36,390
+1155,Shorts,Roupas,416.09,712
+1156,Alicate,Ferramentas,458.38,950
+1157,Cadeira,Móveis,262.55,74
+1158,História,Livros,290.26,400
+1159,Sofá,Móveis,49.83,822
+1160,Notebook,Eletrônicos,37.62,898
+1161,Autoajuda,Livros,12.16,405
+1162,Jaqueta,Roupas,175.84,960
+1163,Guarda-roupa,Móveis,342.49,721
+1164,Pelúcia,Brinquedos,341.28,895
+1165,Boneca,Brinquedos,22.85,473
+1166,Martelo,Ferramentas,423.05,659
+1167,Café,Alimentos,50.16,239
+1168,Carrinho,Brinquedos,204.68,638
+1169,Biografia,Livros,451.47,589
+1170,Smartphone,Eletrônicos,440.52,540
+1171,Martelo,Ferramentas,375.5,262
+1172,História,Livros,452.71,502
+1173,Quebra-Cabeça,Brinquedos,388.84,941
+1174,Furadeira,Ferramentas,90.33,801
+1175,Biscoito,Alimentos,423.42,622
+1176,Alicate,Ferramentas,345.83,999
+1177,Feijão,Alimentos,478.34,347
+1178,Vestido,Roupas,266.47,486
+1179,Biografia,Livros,463.37,235
+1180,Café,Alimentos,453.49,817
+1181,Mesa,Móveis,124.07,379
+1182,Autoajuda,Livros,369.61,978
+1183,Estante,Móveis,164.62,12
+1184,Biografia,Livros,395.5,108
+1185,Martelo,Ferramentas,427.72,248
+1186,Cadeira,Móveis,169.61,475
+1187,Café,Alimentos,61.73,378
+1188,Cadeira,Móveis,309.39,551
+1189,Ficção Científica,Livros,10.65,842
+1190,Shorts,Roupas,448.41,3
+1191,Camiseta,Roupas,311.21,341
+1192,Estante,Móveis,205.35,243
+1193,Autoajuda,Livros,34.88,988
+1194,Carrinho,Brinquedos,18.37,563
+1195,Quebra-Cabeça,Brinquedos,366.67,771
+1196,Notebook,Eletrônicos,427.63,91
+1197,Shorts,Roupas,326.69,966
+1198,Smartphone,Eletrônicos,199.1,497
+1199,Biografia,Livros,185.52,723
+1200,Biografia,Livros,170.18,995
+1201,Pelúcia,Brinquedos,305.48,321
+1202,Mesa,Móveis,35.8,372
+1203,Serra,Ferramentas,316.36,367
+1204,Alicate,Ferramentas,480.24,964
+1205,Guarda-roupa,Móveis,368.64,689
+1206,Autoajuda,Livros,457.75,630
+1207,Feijão,Alimentos,384.51,623
+1208,Carrinho,Brinquedos,195.82,763
+1209,Furadeira,Ferramentas,142.91,860
+1210,Quebra-Cabeça,Brinquedos,62.71,237
+1211,Boneca,Brinquedos,308.37,551
+1212,Ficção Científica,Livros,41.75,187
+1213,Guarda-roupa,Móveis,489.89,873
+1214,Smartphone,Eletrônicos,290.63,904
+1215,Lego,Brinquedos,40.58,778
+1216,Chocolate,Alimentos,230.67,286
+1217,Furadeira,Ferramentas,73.37,93
+1218,Furadeira,Ferramentas,459.45,503
+1219,Carrinho,Brinquedos,485.15,828
+1220,Calça Jeans,Roupas,170.85,231
+1221,Biscoito,Alimentos,252.12,320
+1222,Lego,Brinquedos,418.63,863
+1223,Alicate,Ferramentas,249.31,119
+1224,Chocolate,Alimentos,337.23,57
+1225,Martelo,Ferramentas,329.78,677
+1226,TV LED,Eletrônicos,204.95,903
+1227,TV LED,Eletrônicos,273.08,888
+1228,História,Livros,148.24,851
+1229,Lego,Brinquedos,60.53,53
+1230,Lego,Brinquedos,73.52,386
+1231,Lego,Brinquedos,472.63,737
+1232,Café,Alimentos,452.46,270
+1233,Sofá,Móveis,294.23,873
+1234,Boneca,Brinquedos,315.25,26
+1235,Ficção Científica,Livros,239.42,195
+1236,Boneca,Brinquedos,238.2,81
+1237,Romance,Livros,207.93,422
+1238,Biografia,Livros,393.99,266
+1239,Vestido,Roupas,368.61,183
+1240,Alicate,Ferramentas,202.86,639
+1241,Cadeira,Móveis,39.81,274
+1242,Carrinho,Brinquedos,433.82,424
+1243,Biscoito,Alimentos,216.63,573
+1244,Furadeira,Ferramentas,476.23,697
+1245,Smartwatch,Eletrônicos,366.31,662
+1246,Alicate,Ferramentas,376.75,213
+1247,Autoajuda,Livros,422.89,57
+1248,Estante,Móveis,198.99,998
+1249,Calça Jeans,Roupas,97.57,632
+1250,Vestido,Roupas,431.62,146
+1251,Quebra-Cabeça,Brinquedos,468.29,26
+1252,Biscoito,Alimentos,255.02,631
+1253,Romance,Livros,404.72,688
+1254,TV LED,Eletrônicos,159.53,593
+1255,Romance,Livros,280.88,741
+1256,Quebra-Cabeça,Brinquedos,325.28,903
+1257,Lego,Brinquedos,112.54,21
+1258,Serra,Ferramentas,462.37,318
+1259,Feijão,Alimentos,382.4,239
+1260,Boneca,Brinquedos,98.0,893
+1261,Arroz,Alimentos,132.74,508
+1262,Tablet,Eletrônicos,53.62,214
+1263,Mesa,Móveis,306.24,129
+1264,Jaqueta,Roupas,105.97,581
+1265,Café,Alimentos,28.25,146
+1266,Café,Alimentos,480.59,247
+1267,Chocolate,Alimentos,83.63,597
+1268,Café,Alimentos,312.95,315
+1269,Romance,Livros,468.67,694
+1270,Serra,Ferramentas,278.55,539
+1271,Martelo,Ferramentas,46.05,415
+1272,Biografia,Livros,385.8,237
+1273,Jaqueta,Roupas,296.58,706
+1274,Jaqueta,Roupas,392.22,270
+1275,Furadeira,Ferramentas,437.09,774
+1276,Tablet,Eletrônicos,232.81,846
+1277,Chocolate,Alimentos,457.2,354
+1278,Jaqueta,Roupas,248.27,465
+1279,Boneca,Brinquedos,55.93,793
+1280,Sofá,Móveis,161.41,189
+1281,Romance,Livros,480.53,171
+1282,Feijão,Alimentos,49.75,283
+1283,TV LED,Eletrônicos,256.7,199
+1284,Autoajuda,Livros,316.81,31
+1285,Mesa,Móveis,183.41,685
+1286,TV LED,Eletrônicos,425.12,592
+1287,Smartphone,Eletrônicos,311.62,470
+1288,Pelúcia,Brinquedos,255.46,27
+1289,Calça Jeans,Roupas,428.08,300
+1290,Smartphone,Eletrônicos,249.62,242
+1291,Tablet,Eletrônicos,161.44,138
+1292,Biscoito,Alimentos,118.09,512
+1293,Café,Alimentos,219.32,103
+1294,Mesa,Móveis,48.41,357
+1295,História,Livros,41.7,915
+1296,História,Livros,80.14,22
+1297,Guarda-roupa,Móveis,241.49,68
+1298,Lego,Brinquedos,276.5,471
+1299,Estante,Móveis,42.45,911
+1300,Feijão,Alimentos,124.16,220
+1301,Tablet,Eletrônicos,229.6,179
+1302,Autoajuda,Livros,423.55,600
+1303,Pelúcia,Brinquedos,383.68,258
+1304,Pelúcia,Brinquedos,399.37,203
+1305,Pelúcia,Brinquedos,114.1,702
+1306,Tablet,Eletrônicos,159.0,444
+1307,Chave de Fenda,Ferramentas,14.45,427
+1308,TV LED,Eletrônicos,169.42,859
+1309,Quebra-Cabeça,Brinquedos,388.72,875
+1310,Romance,Livros,138.6,209
+1311,Pelúcia,Brinquedos,445.08,623
+1312,Feijão,Alimentos,411.19,410
+1313,Camiseta,Roupas,263.52,730
+1314,Arroz,Alimentos,285.82,613
+1315,Serra,Ferramentas,425.57,757
+1316,Serra,Ferramentas,371.06,975
+1317,Biografia,Livros,92.61,108
+1318,Chave de Fenda,Ferramentas,152.95,730
+1319,Chave de Fenda,Ferramentas,259.23,376
+1320,Café,Alimentos,483.22,530
+1321,Autoajuda,Livros,252.36,394
+1322,Alicate,Ferramentas,191.81,128
+1323,Autoajuda,Livros,80.66,86
+1324,História,Livros,144.09,907
+1325,Lego,Brinquedos,211.62,828
+1326,Pelúcia,Brinquedos,61.22,679
+1327,Feijão,Alimentos,105.97,24
+1328,Estante,Móveis,216.29,985
+1329,Mesa,Móveis,398.09,871
+1330,História,Livros,346.19,113
+1331,Calça Jeans,Roupas,36.05,492
+1332,Notebook,Eletrônicos,42.59,843
+1333,Cadeira,Móveis,33.1,112
+1334,Autoajuda,Livros,429.8,357
+1335,Mesa,Móveis,65.91,354
+1336,Furadeira,Ferramentas,28.94,149
+1337,Biscoito,Alimentos,183.57,233
+1338,Quebra-Cabeça,Brinquedos,123.6,265
+1339,Furadeira,Ferramentas,440.76,639
+1340,Romance,Livros,249.82,999
+1341,Chave de Fenda,Ferramentas,178.46,170
+1342,Tablet,Eletrônicos,406.21,778
+1343,Smartphone,Eletrônicos,296.31,219
+1344,Jaqueta,Roupas,109.7,644
+1345,Jaqueta,Roupas,268.31,667
+1346,Café,Alimentos,379.77,21
+1347,Estante,Móveis,88.9,566
+1348,Romance,Livros,311.81,107
+1349,Ficção Científica,Livros,437.59,592
+1350,Guarda-roupa,Móveis,235.39,718
+1351,Tablet,Eletrônicos,153.01,94
+1352,Carrinho,Brinquedos,255.22,378
+1353,Calça Jeans,Roupas,379.48,262
+1354,Pelúcia,Brinquedos,283.36,948
+1355,TV LED,Eletrônicos,298.95,60
+1356,Biografia,Livros,92.18,634
+1357,Alicate,Ferramentas,234.11,687
+1358,Calça Jeans,Roupas,59.16,762
+1359,Estante,Móveis,413.5,725
+1360,Café,Alimentos,343.63,684
+1361,Sofá,Móveis,320.86,461
+1362,Autoajuda,Livros,18.33,720
+1363,Chave de Fenda,Ferramentas,440.96,37
+1364,Estante,Móveis,270.36,271
+1365,Feijão,Alimentos,78.42,189
+1366,Jaqueta,Roupas,449.78,301
+1367,Chocolate,Alimentos,116.03,24
+1368,Camiseta,Roupas,235.43,892
+1369,Boneca,Brinquedos,422.75,439
+1370,Notebook,Eletrônicos,449.48,683
+1371,Chave de Fenda,Ferramentas,183.02,952
+1372,Jaqueta,Roupas,288.54,607
+1373,Serra,Ferramentas,386.7,897
+1374,Lego,Brinquedos,70.09,181
+1375,Boneca,Brinquedos,184.0,785
+1376,Chocolate,Alimentos,226.0,179
+1377,TV LED,Eletrônicos,81.95,695
+1378,Estante,Móveis,123.63,539
+1379,Ficção Científica,Livros,198.97,368
+1380,Biografia,Livros,380.02,353
+1381,Furadeira,Ferramentas,90.14,365
+1382,Guarda-roupa,Móveis,131.84,840
+1383,Romance,Livros,306.63,852
+1384,Tablet,Eletrônicos,107.13,285
+1385,Chocolate,Alimentos,140.58,269
+1386,Feijão,Alimentos,41.21,185
+1387,Furadeira,Ferramentas,95.95,797
+1388,Tablet,Eletrônicos,455.69,551
+1389,Arroz,Alimentos,212.51,353
+1390,Quebra-Cabeça,Brinquedos,397.49,411
+1391,Tablet,Eletrônicos,204.11,203
+1392,Alicate,Ferramentas,341.13,920
+1393,Autoajuda,Livros,28.59,82
+1394,Vestido,Roupas,211.05,722
+1395,Smartphone,Eletrônicos,229.08,140
+1396,Smartphone,Eletrônicos,469.69,412
+1397,Chave de Fenda,Ferramentas,104.29,46
+1398,Quebra-Cabeça,Brinquedos,225.84,891
+1399,Biscoito,Alimentos,176.96,508
+1400,Boneca,Brinquedos,433.82,237
+1401,Café,Alimentos,65.08,767
+1402,Boneca,Brinquedos,144.98,970
+1403,Chave de Fenda,Ferramentas,279.38,458
+1404,Estante,Móveis,171.46,561
+1405,Guarda-roupa,Móveis,273.73,375
+1406,Alicate,Ferramentas,284.56,959
+1407,Smartwatch,Eletrônicos,176.86,457
+1408,Mesa,Móveis,302.97,463
+1409,Martelo,Ferramentas,434.06,623
+1410,Smartphone,Eletrônicos,326.88,835
+1411,Feijão,Alimentos,170.29,975
+1412,Pelúcia,Brinquedos,276.27,326
+1413,TV LED,Eletrônicos,63.92,314
+1414,Biografia,Livros,263.84,588
+1415,História,Livros,317.06,327
+1416,Café,Alimentos,477.87,206
+1417,Martelo,Ferramentas,299.97,173
+1418,Feijão,Alimentos,205.88,40
+1419,Jaqueta,Roupas,162.09,474
+1420,Café,Alimentos,251.26,147
+1421,Vestido,Roupas,362.99,193
+1422,Tablet,Eletrônicos,485.04,999
+1423,Smartphone,Eletrônicos,447.01,19
+1424,Calça Jeans,Roupas,72.32,577
+1425,Sofá,Móveis,353.07,448
+1426,Tablet,Eletrônicos,440.45,772
+1427,Biografia,Livros,427.24,994
+1428,Café,Alimentos,128.04,570
+1429,Autoajuda,Livros,354.52,157
+1430,Smartwatch,Eletrônicos,335.54,234
+1431,Lego,Brinquedos,421.79,17
+1432,Quebra-Cabeça,Brinquedos,165.61,805
+1433,História,Livros,365.93,195
+1434,Vestido,Roupas,455.37,436
+1435,Camiseta,Roupas,294.11,755
+1436,Chocolate,Alimentos,336.95,659
+1437,Café,Alimentos,255.98,925
+1438,Smartwatch,Eletrônicos,340.74,868
+1439,Furadeira,Ferramentas,23.34,445
+1440,Furadeira,Ferramentas,487.87,539
+1441,Alicate,Ferramentas,496.27,484
+1442,Ficção Científica,Livros,231.58,644
+1443,Camiseta,Roupas,370.79,442
+1444,Notebook,Eletrônicos,419.63,427
+1445,História,Livros,369.51,744
+1446,Lego,Brinquedos,48.84,650
+1447,Feijão,Alimentos,335.57,823
+1448,Feijão,Alimentos,460.52,289
+1449,Pelúcia,Brinquedos,13.43,716
+1450,Pelúcia,Brinquedos,66.8,475
+1451,TV LED,Eletrônicos,30.86,445
+1452,Notebook,Eletrônicos,133.82,29
+1453,Carrinho,Brinquedos,299.09,889
+1454,Chocolate,Alimentos,285.38,958
+1455,Smartwatch,Eletrônicos,123.62,452
+1456,Feijão,Alimentos,477.07,874
+1457,Pelúcia,Brinquedos,296.06,855
+1458,Lego,Brinquedos,211.61,436
+1459,Camiseta,Roupas,427.73,999
+1460,Chocolate,Alimentos,109.21,296
+1461,TV LED,Eletrônicos,352.26,185
+1462,Autoajuda,Livros,474.05,620
+1463,Quebra-Cabeça,Brinquedos,293.13,680
+1464,Chave de Fenda,Ferramentas,66.5,766
+1465,Serra,Ferramentas,285.17,218
+1466,Boneca,Brinquedos,56.64,9
+1467,Boneca,Brinquedos,440.33,717
+1468,Shorts,Roupas,411.95,358
+1469,Pelúcia,Brinquedos,296.29,676
+1470,Shorts,Roupas,56.21,377
+1471,Chocolate,Alimentos,400.87,289
+1472,Vestido,Roupas,430.76,827
+1473,Romance,Livros,35.9,412
+1474,Smartphone,Eletrônicos,424.25,897
+1475,Notebook,Eletrônicos,337.87,38
+1476,Shorts,Roupas,348.88,363
+1477,Furadeira,Ferramentas,397.63,942
+1478,Guarda-roupa,Móveis,318.04,876
+1479,Smartwatch,Eletrônicos,242.34,354
+1480,Pelúcia,Brinquedos,313.71,729
+1481,Romance,Livros,294.37,443
+1482,Ficção Científica,Livros,127.01,426
+1483,Chave de Fenda,Ferramentas,270.17,392
+1484,Mesa,Móveis,58.59,588
+1485,Autoajuda,Livros,300.28,429
+1486,Arroz,Alimentos,298.96,241
+1487,Calça Jeans,Roupas,347.6,646
+1488,Camiseta,Roupas,229.95,178
+1489,Carrinho,Brinquedos,342.24,183
+1490,Quebra-Cabeça,Brinquedos,270.83,325
+1491,Serra,Ferramentas,140.72,51
+1492,Autoajuda,Livros,360.51,372
+1493,Autoajuda,Livros,454.76,431
+1494,Biografia,Livros,88.74,686
+1495,Romance,Livros,390.22,371
+1496,Romance,Livros,223.23,296
+1497,Autoajuda,Livros,42.86,501
+1498,Feijão,Alimentos,312.07,194
+1499,Romance,Livros,315.79,850
+1500,Tablet,Eletrônicos,408.04,402
+1501,Autoajuda,Livros,441.19,650
+1502,História,Livros,73.0,810
+1503,Lego,Brinquedos,446.88,8
+1504,Biscoito,Alimentos,203.06,976
+1505,Feijão,Alimentos,78.34,484
+1506,Vestido,Roupas,477.82,809
+1507,Chocolate,Alimentos,288.01,692
+1508,Furadeira,Ferramentas,274.24,99
+1509,Biscoito,Alimentos,42.0,340
+1510,TV LED,Eletrônicos,386.23,445
+1511,Serra,Ferramentas,411.52,278
+1512,Shorts,Roupas,33.97,961
+1513,Guarda-roupa,Móveis,298.8,380
+1514,Notebook,Eletrônicos,381.2,119
+1515,Biografia,Livros,195.9,465
+1516,Chave de Fenda,Ferramentas,259.37,711
+1517,Quebra-Cabeça,Brinquedos,286.49,973
+1518,Romance,Livros,263.87,1000
+1519,Quebra-Cabeça,Brinquedos,180.29,452
+1520,Boneca,Brinquedos,68.07,257
+1521,Tablet,Eletrônicos,487.82,149
+1522,Camiseta,Roupas,52.29,225
+1523,Biscoito,Alimentos,418.63,1
+1524,Sofá,Móveis,114.86,743
+1525,Sofá,Móveis,54.08,823
+1526,Quebra-Cabeça,Brinquedos,294.52,780
+1527,Romance,Livros,40.39,443
+1528,Mesa,Móveis,392.63,406
+1529,Romance,Livros,89.03,589
+1530,Furadeira,Ferramentas,486.88,367
+1531,Camiseta,Roupas,77.27,593
+1532,Guarda-roupa,Móveis,43.78,95
+1533,Serra,Ferramentas,13.93,174
+1534,Mesa,Móveis,115.5,457
+1535,Cadeira,Móveis,250.62,861
+1536,Notebook,Eletrônicos,189.64,885
+1537,Guarda-roupa,Móveis,98.79,659
+1538,Romance,Livros,447.74,258
+1539,Jaqueta,Roupas,16.38,962
+1540,Café,Alimentos,464.26,889
+1541,Notebook,Eletrônicos,192.21,112
+1542,Cadeira,Móveis,205.32,147
+1543,Smartwatch,Eletrônicos,325.55,953
+1544,Carrinho,Brinquedos,152.96,421
+1545,Ficção Científica,Livros,398.58,329
+1546,Arroz,Alimentos,394.66,408
+1547,Tablet,Eletrônicos,487.63,724
+1548,Boneca,Brinquedos,448.66,132
+1549,Quebra-Cabeça,Brinquedos,343.48,330
+1550,TV LED,Eletrônicos,34.9,256
+1551,Pelúcia,Brinquedos,12.06,731
+1552,TV LED,Eletrônicos,235.75,213
+1553,Ficção Científica,Livros,378.99,767
+1554,Notebook,Eletrônicos,384.39,228
+1555,Feijão,Alimentos,471.74,492
+1556,Notebook,Eletrônicos,19.69,163
+1557,Lego,Brinquedos,194.48,894
+1558,Boneca,Brinquedos,359.51,129
+1559,Notebook,Eletrônicos,324.58,668
+1560,Tablet,Eletrônicos,295.1,666
+1561,Ficção Científica,Livros,466.05,899
+1562,Quebra-Cabeça,Brinquedos,16.3,60
+1563,Sofá,Móveis,119.19,660
+1564,Serra,Ferramentas,131.17,826
+1565,Autoajuda,Livros,16.64,692
+1566,Smartphone,Eletrônicos,408.2,416
+1567,Vestido,Roupas,437.77,392
+1568,Autoajuda,Livros,219.13,804
+1569,Sofá,Móveis,87.87,646
+1570,Cadeira,Móveis,61.34,333
+1571,Sofá,Móveis,65.08,310
+1572,Notebook,Eletrônicos,247.18,454
+1573,Autoajuda,Livros,428.05,295
+1574,Serra,Ferramentas,174.52,396
+1575,TV LED,Eletrônicos,485.0,145
+1576,Jaqueta,Roupas,387.83,50
+1577,Chocolate,Alimentos,478.46,548
+1578,Café,Alimentos,95.65,332
+1579,Café,Alimentos,320.2,149
+1580,Serra,Ferramentas,462.52,436
+1581,Furadeira,Ferramentas,389.15,471
+1582,Autoajuda,Livros,226.77,531
+1583,Serra,Ferramentas,46.54,995
+1584,Quebra-Cabeça,Brinquedos,166.46,64
+1585,Lego,Brinquedos,59.39,697
+1586,Carrinho,Brinquedos,224.79,498
+1587,Chocolate,Alimentos,495.15,37
+1588,História,Livros,127.4,525
+1589,Jaqueta,Roupas,162.79,293
+1590,Café,Alimentos,290.38,535
+1591,Sofá,Móveis,455.81,255
+1592,Biscoito,Alimentos,410.36,739
+1593,Quebra-Cabeça,Brinquedos,22.27,354
+1594,Estante,Móveis,458.85,90
+1595,Martelo,Ferramentas,244.02,537
+1596,Notebook,Eletrônicos,489.21,832
+1597,Cadeira,Móveis,413.02,483
+1598,Jaqueta,Roupas,266.84,565
+1599,Chave de Fenda,Ferramentas,499.38,450
+1600,Guarda-roupa,Móveis,103.94,902
+1601,Camiseta,Roupas,55.27,907
+1602,Camiseta,Roupas,83.23,901
+1603,Romance,Livros,165.12,893
+1604,Vestido,Roupas,28.19,755
+1605,Martelo,Ferramentas,379.98,402
+1606,Feijão,Alimentos,123.57,488
+1607,Cadeira,Móveis,177.12,549
+1608,Furadeira,Ferramentas,124.63,886
+1609,Notebook,Eletrônicos,47.25,823
+1610,Chave de Fenda,Ferramentas,257.02,363
+1611,TV LED,Eletrônicos,253.4,186
+1612,Quebra-Cabeça,Brinquedos,220.21,493
+1613,Chocolate,Alimentos,312.59,115
+1614,Biscoito,Alimentos,399.0,507
+1615,Notebook,Eletrônicos,214.4,382
+1616,Shorts,Roupas,431.68,329
+1617,Camiseta,Roupas,204.91,54
+1618,Boneca,Brinquedos,443.56,273
+1619,Chocolate,Alimentos,385.69,920
+1620,Lego,Brinquedos,274.28,400
+1621,Alicate,Ferramentas,354.62,39
+1622,Ficção Científica,Livros,355.26,361
+1623,Chocolate,Alimentos,369.84,650
+1624,Lego,Brinquedos,367.92,236
+1625,Feijão,Alimentos,197.04,425
+1626,Shorts,Roupas,358.71,86
+1627,Camiseta,Roupas,445.71,677
+1628,Autoajuda,Livros,301.07,61
+1629,Romance,Livros,336.27,545
+1630,Café,Alimentos,333.22,162
+1631,Feijão,Alimentos,234.28,546
+1632,Café,Alimentos,201.86,925
+1633,Serra,Ferramentas,423.47,80
+1634,TV LED,Eletrônicos,246.07,644
+1635,Estante,Móveis,160.34,841
+1636,Mesa,Móveis,204.41,300
+1637,Pelúcia,Brinquedos,73.39,525
+1638,Mesa,Móveis,184.8,57
+1639,TV LED,Eletrônicos,129.63,167
+1640,Shorts,Roupas,56.8,251
+1641,Lego,Brinquedos,398.75,64
+1642,TV LED,Eletrônicos,29.33,707
+1643,Romance,Livros,357.87,840
+1644,Smartphone,Eletrônicos,307.03,552
+1645,Smartphone,Eletrônicos,194.53,115
+1646,Lego,Brinquedos,498.24,457
+1647,Alicate,Ferramentas,100.93,423
+1648,Autoajuda,Livros,190.24,290
+1649,Furadeira,Ferramentas,445.63,672
+1650,Carrinho,Brinquedos,147.88,950
+1651,Feijão,Alimentos,238.3,468
+1652,Camiseta,Roupas,252.24,884
+1653,Alicate,Ferramentas,75.93,642
+1654,Biscoito,Alimentos,423.06,361
+1655,Shorts,Roupas,61.28,390
+1656,TV LED,Eletrônicos,346.87,859
+1657,Camiseta,Roupas,193.87,44
+1658,Estante,Móveis,463.17,139
+1659,Vestido,Roupas,249.82,665
+1660,Furadeira,Ferramentas,241.61,153
+1661,Arroz,Alimentos,86.45,354
+1662,Tablet,Eletrônicos,55.65,709
+1663,Smartwatch,Eletrônicos,121.03,520
+1664,Chocolate,Alimentos,28.9,575
+1665,Vestido,Roupas,192.56,944
+1666,Cadeira,Móveis,267.72,372
+1667,Sofá,Móveis,487.42,809
+1668,Furadeira,Ferramentas,336.08,748
+1669,Camiseta,Roupas,269.4,402
+1670,Boneca,Brinquedos,404.64,615
+1671,Alicate,Ferramentas,139.92,313
+1672,Guarda-roupa,Móveis,279.11,651
+1673,Café,Alimentos,231.49,69
+1674,Vestido,Roupas,296.43,781
+1675,Lego,Brinquedos,106.19,422
+1676,Notebook,Eletrônicos,469.48,358
+1677,Chocolate,Alimentos,275.04,70
+1678,Jaqueta,Roupas,384.5,820
+1679,Mesa,Móveis,463.22,619
+1680,Pelúcia,Brinquedos,186.61,128
+1681,Alicate,Ferramentas,293.82,968
+1682,Guarda-roupa,Móveis,11.48,600
+1683,Cadeira,Móveis,21.22,613
+1684,Quebra-Cabeça,Brinquedos,440.4,964
+1685,Furadeira,Ferramentas,163.38,860
+1686,História,Livros,182.76,291
+1687,Romance,Livros,366.54,846
+1688,Biscoito,Alimentos,456.03,740
+1689,Martelo,Ferramentas,223.04,129
+1690,Tablet,Eletrônicos,284.02,798
+1691,Biografia,Livros,144.12,764
+1692,Lego,Brinquedos,177.22,818
+1693,Lego,Brinquedos,352.77,717
+1694,Chocolate,Alimentos,71.53,263
+1695,Chave de Fenda,Ferramentas,32.32,219
+1696,Biografia,Livros,334.39,866
+1697,Arroz,Alimentos,386.7,732
+1698,Guarda-roupa,Móveis,67.65,488
+1699,Biscoito,Alimentos,281.13,382
+1700,Biscoito,Alimentos,305.61,747
+1701,Martelo,Ferramentas,257.16,31
+1702,Smartwatch,Eletrônicos,203.16,280
+1703,Estante,Móveis,358.14,138
+1704,Martelo,Ferramentas,60.29,598
+1705,Estante,Móveis,22.47,639
+1706,Sofá,Móveis,432.04,699
+1707,Biscoito,Alimentos,298.02,381
+1708,Estante,Móveis,28.7,777
+1709,Mesa,Móveis,414.59,375
+1710,História,Livros,308.09,964
+1711,Camiseta,Roupas,194.62,165
+1712,Notebook,Eletrônicos,207.13,334
+1713,TV LED,Eletrônicos,401.24,331
+1714,Smartphone,Eletrônicos,118.24,480
+1715,TV LED,Eletrônicos,435.78,944
+1716,Quebra-Cabeça,Brinquedos,390.17,184
+1717,Quebra-Cabeça,Brinquedos,23.18,384
+1718,Carrinho,Brinquedos,82.34,923
+1719,Calça Jeans,Roupas,185.78,625
+1720,Calça Jeans,Roupas,246.03,577
+1721,Biografia,Livros,474.36,159
+1722,História,Livros,482.97,607
+1723,Pelúcia,Brinquedos,92.5,961
+1724,Camiseta,Roupas,369.84,512
+1725,História,Livros,37.73,784
+1726,Serra,Ferramentas,278.89,11
+1727,Biscoito,Alimentos,378.22,179
+1728,Furadeira,Ferramentas,479.84,630
+1729,Serra,Ferramentas,173.19,206
+1730,Autoajuda,Livros,496.75,183
+1731,Boneca,Brinquedos,120.43,294
+1732,Pelúcia,Brinquedos,99.94,544
+1733,TV LED,Eletrônicos,135.35,684
+1734,Cadeira,Móveis,372.7,765
+1735,Shorts,Roupas,434.88,545
+1736,Chocolate,Alimentos,66.0,618
+1737,Café,Alimentos,174.01,56
+1738,Arroz,Alimentos,226.66,393
+1739,Calça Jeans,Roupas,144.25,216
+1740,Serra,Ferramentas,181.34,992
+1741,Alicate,Ferramentas,264.82,889
+1742,Serra,Ferramentas,57.25,639
+1743,Smartwatch,Eletrônicos,268.75,446
+1744,Lego,Brinquedos,142.91,585
+1745,Feijão,Alimentos,394.34,105
+1746,Guarda-roupa,Móveis,136.44,583
+1747,Shorts,Roupas,497.05,641
+1748,Chave de Fenda,Ferramentas,293.05,35
+1749,Smartwatch,Eletrônicos,458.4,716
+1750,Calça Jeans,Roupas,185.73,151
+1751,Cadeira,Móveis,267.79,795
+1752,Chave de Fenda,Ferramentas,475.14,709
+1753,Shorts,Roupas,305.23,95
+1754,Martelo,Ferramentas,100.27,482
+1755,Notebook,Eletrônicos,448.65,309
+1756,Jaqueta,Roupas,367.43,937
+1757,Café,Alimentos,479.4,684
+1758,Cadeira,Móveis,58.75,617
+1759,Romance,Livros,455.89,609
+1760,Tablet,Eletrônicos,166.47,426
+1761,Serra,Ferramentas,414.15,211
+1762,Chave de Fenda,Ferramentas,33.16,65
+1763,Autoajuda,Livros,187.82,753
+1764,Sofá,Móveis,119.17,544
+1765,Martelo,Ferramentas,82.67,480
+1766,Autoajuda,Livros,258.56,542
+1767,Café,Alimentos,436.79,428
+1768,Pelúcia,Brinquedos,52.79,724
+1769,Cadeira,Móveis,80.69,877
+1770,Pelúcia,Brinquedos,103.14,517
+1771,Biscoito,Alimentos,117.67,697
+1772,Lego,Brinquedos,54.44,157
+1773,Feijão,Alimentos,10.43,278
+1774,TV LED,Eletrônicos,225.87,309
+1775,Jaqueta,Roupas,424.0,973
+1776,Mesa,Móveis,238.84,253
+1777,Sofá,Móveis,409.54,535
+1778,Biografia,Livros,109.72,679
+1779,Biscoito,Alimentos,415.31,319
+1780,Arroz,Alimentos,126.02,895
+1781,História,Livros,281.67,624
+1782,Chocolate,Alimentos,385.76,714
+1783,Notebook,Eletrônicos,155.36,440
+1784,Ficção Científica,Livros,248.19,555
+1785,Camiseta,Roupas,420.47,870
+1786,Vestido,Roupas,176.37,835
+1787,Tablet,Eletrônicos,177.51,247
+1788,Chocolate,Alimentos,329.64,105
+1789,Quebra-Cabeça,Brinquedos,197.58,632
+1790,TV LED,Eletrônicos,309.08,864
+1791,Biografia,Livros,172.49,639
+1792,Guarda-roupa,Móveis,361.49,482
+1793,Smartwatch,Eletrônicos,51.62,549
+1794,Arroz,Alimentos,330.04,345
+1795,Calça Jeans,Roupas,356.56,537
+1796,Carrinho,Brinquedos,27.72,917
+1797,Ficção Científica,Livros,387.93,894
+1798,Sofá,Móveis,499.84,53
+1799,Chave de Fenda,Ferramentas,92.93,214
+1800,Tablet,Eletrônicos,138.35,460
+1801,Chocolate,Alimentos,304.77,646
+1802,Chave de Fenda,Ferramentas,293.53,92
+1803,Mesa,Móveis,351.37,982
+1804,Vestido,Roupas,218.35,288
+1805,Notebook,Eletrônicos,218.75,735
+1806,Jaqueta,Roupas,91.23,863
+1807,Romance,Livros,205.15,61
+1808,Estante,Móveis,266.39,768
+1809,Alicate,Ferramentas,268.51,747
+1810,Chave de Fenda,Ferramentas,130.87,921
+1811,Notebook,Eletrônicos,172.34,248
+1812,Martelo,Ferramentas,288.69,716
+1813,Notebook,Eletrônicos,142.37,133
+1814,Feijão,Alimentos,123.87,876
+1815,Mesa,Móveis,357.82,821
+1816,Furadeira,Ferramentas,340.13,526
+1817,Pelúcia,Brinquedos,284.78,404
+1818,Biografia,Livros,408.41,792
+1819,Romance,Livros,202.95,469
+1820,História,Livros,421.91,946
+1821,Biscoito,Alimentos,439.51,53
+1822,Martelo,Ferramentas,98.83,663
+1823,Shorts,Roupas,225.87,790
+1824,Lego,Brinquedos,160.68,910
+1825,Vestido,Roupas,244.42,588
+1826,Furadeira,Ferramentas,238.54,152
+1827,Estante,Móveis,435.62,121
+1828,Arroz,Alimentos,157.7,552
+1829,Calça Jeans,Roupas,44.61,419
+1830,Shorts,Roupas,433.24,346
+1831,Shorts,Roupas,343.68,976
+1832,Carrinho,Brinquedos,310.23,414
+1833,Sofá,Móveis,54.37,173
+1834,Quebra-Cabeça,Brinquedos,467.91,385
+1835,Ficção Científica,Livros,107.62,142
+1836,Feijão,Alimentos,89.65,769
+1837,Sofá,Móveis,157.05,952
+1838,Autoajuda,Livros,53.21,743
+1839,Café,Alimentos,36.33,667
+1840,Tablet,Eletrônicos,143.19,809
+1841,Guarda-roupa,Móveis,341.9,148
+1842,Smartphone,Eletrônicos,291.96,122
+1843,Sofá,Móveis,220.87,431
+1844,Jaqueta,Roupas,428.68,881
+1845,Mesa,Móveis,481.93,835
+1846,História,Livros,445.41,694
+1847,Estante,Móveis,61.76,247
+1848,Quebra-Cabeça,Brinquedos,292.06,948
+1849,História,Livros,408.29,518
+1850,Calça Jeans,Roupas,415.14,364
+1851,Martelo,Ferramentas,114.42,866
+1852,Carrinho,Brinquedos,396.9,3
+1853,Shorts,Roupas,150.46,134
+1854,Feijão,Alimentos,49.7,748
+1855,Alicate,Ferramentas,249.35,277
+1856,Estante,Móveis,378.79,832
+1857,Calça Jeans,Roupas,440.2,375
+1858,Carrinho,Brinquedos,59.6,962
+1859,Shorts,Roupas,423.21,349
+1860,Sofá,Móveis,172.3,512
+1861,Mesa,Móveis,289.48,301
+1862,Biscoito,Alimentos,256.78,387
+1863,Furadeira,Ferramentas,145.67,691
+1864,Chave de Fenda,Ferramentas,256.66,983
+1865,Biografia,Livros,259.88,314
+1866,Guarda-roupa,Móveis,296.5,758
+1867,Carrinho,Brinquedos,239.62,647
+1868,Biscoito,Alimentos,476.94,272
+1869,Serra,Ferramentas,325.47,513
+1870,Autoajuda,Livros,201.87,150
+1871,Biscoito,Alimentos,304.18,746
+1872,Café,Alimentos,297.25,955
+1873,Sofá,Móveis,497.59,389
+1874,Furadeira,Ferramentas,256.26,765
+1875,Calça Jeans,Roupas,170.93,894
+1876,Lego,Brinquedos,487.61,582
+1877,Alicate,Ferramentas,60.53,801
+1878,Serra,Ferramentas,174.7,823
+1879,Furadeira,Ferramentas,57.5,498
+1880,Biografia,Livros,304.75,521
+1881,Martelo,Ferramentas,240.71,583
+1882,Estante,Móveis,424.01,15
+1883,Biografia,Livros,305.33,630
+1884,Smartphone,Eletrônicos,45.11,970
+1885,Jaqueta,Roupas,420.31,222
+1886,Ficção Científica,Livros,365.85,978
+1887,Carrinho,Brinquedos,202.7,948
+1888,Carrinho,Brinquedos,281.1,254
+1889,Calça Jeans,Roupas,211.35,386
+1890,Sofá,Móveis,326.88,122
+1891,Alicate,Ferramentas,466.38,781
+1892,Romance,Livros,206.97,42
+1893,História,Livros,466.9,97
+1894,Biscoito,Alimentos,341.01,716
+1895,Autoajuda,Livros,256.51,833
+1896,Shorts,Roupas,162.32,735
+1897,Tablet,Eletrônicos,177.21,274
+1898,Lego,Brinquedos,339.91,235
+1899,Mesa,Móveis,343.54,340
+1900,Martelo,Ferramentas,266.04,782
+1901,Alicate,Ferramentas,43.68,759
+1902,TV LED,Eletrônicos,256.98,413
+1903,TV LED,Eletrônicos,157.52,420
+1904,História,Livros,32.56,519
+1905,Martelo,Ferramentas,191.78,224
+1906,Camiseta,Roupas,490.03,178
+1907,Feijão,Alimentos,125.94,879
+1908,Martelo,Ferramentas,49.58,46
+1909,Quebra-Cabeça,Brinquedos,432.22,340
+1910,Smartwatch,Eletrônicos,455.61,137
+1911,Chave de Fenda,Ferramentas,402.21,324
+1912,História,Livros,489.95,614
+1913,Lego,Brinquedos,152.26,974
+1914,História,Livros,308.93,860
+1915,Alicate,Ferramentas,437.2,883
+1916,Camiseta,Roupas,261.99,233
+1917,Notebook,Eletrônicos,139.83,115
+1918,Pelúcia,Brinquedos,131.66,751
+1919,Pelúcia,Brinquedos,295.01,795
+1920,TV LED,Eletrônicos,430.55,228
+1921,Calça Jeans,Roupas,406.37,129
+1922,Quebra-Cabeça,Brinquedos,441.27,875
+1923,Pelúcia,Brinquedos,72.39,379
+1924,Biscoito,Alimentos,350.38,399
+1925,Pelúcia,Brinquedos,403.46,316
+1926,Ficção Científica,Livros,452.62,955
+1927,Smartphone,Eletrônicos,442.93,781
+1928,Lego,Brinquedos,36.37,940
+1929,Biografia,Livros,10.04,894
+1930,Calça Jeans,Roupas,234.06,126
+1931,Camiseta,Roupas,231.26,157
+1932,Serra,Ferramentas,88.36,443
+1933,Pelúcia,Brinquedos,383.27,775
+1934,Boneca,Brinquedos,81.38,852
+1935,Ficção Científica,Livros,349.64,32
+1936,Romance,Livros,20.31,699
+1937,Pelúcia,Brinquedos,187.74,811
+1938,Boneca,Brinquedos,367.93,964
+1939,Feijão,Alimentos,478.53,453
+1940,Smartphone,Eletrônicos,201.98,154
+1941,Mesa,Móveis,288.96,798
+1942,Boneca,Brinquedos,149.68,67
+1943,Feijão,Alimentos,476.32,351
+1944,Notebook,Eletrônicos,39.48,411
+1945,Lego,Brinquedos,283.69,958
+1946,Mesa,Móveis,13.55,965
+1947,Ficção Científica,Livros,463.03,119
+1948,Notebook,Eletrônicos,94.13,393
+1949,Romance,Livros,407.04,368
+1950,Shorts,Roupas,140.87,342
+1951,Smartwatch,Eletrônicos,240.9,635
+1952,Quebra-Cabeça,Brinquedos,367.57,643
+1953,Lego,Brinquedos,445.34,676
+1954,Café,Alimentos,213.87,438
+1955,Pelúcia,Brinquedos,28.91,516
+1956,Notebook,Eletrônicos,386.46,909
+1957,Arroz,Alimentos,351.09,347
+1958,Lego,Brinquedos,497.09,189
+1959,Romance,Livros,192.54,196
+1960,Biscoito,Alimentos,483.95,98
+1961,Furadeira,Ferramentas,56.03,242
+1962,Smartphone,Eletrônicos,350.15,670
+1963,Smartphone,Eletrônicos,87.95,350
+1964,Cadeira,Móveis,259.06,399
+1965,História,Livros,487.61,634
+1966,Biscoito,Alimentos,162.58,11
+1967,Vestido,Roupas,310.51,673
+1968,Café,Alimentos,232.39,890
+1969,Pelúcia,Brinquedos,472.61,468
+1970,Serra,Ferramentas,321.68,354
+1971,Camiseta,Roupas,322.36,428
+1972,Romance,Livros,190.94,324
+1973,Ficção Científica,Livros,215.58,488
+1974,Sofá,Móveis,175.82,716
+1975,Chocolate,Alimentos,333.67,686
+1976,Quebra-Cabeça,Brinquedos,232.66,334
+1977,Sofá,Móveis,490.26,864
+1978,Guarda-roupa,Móveis,218.54,140
+1979,Notebook,Eletrônicos,191.68,342
+1980,Café,Alimentos,321.92,175
+1981,Autoajuda,Livros,456.55,469
+1982,Mesa,Móveis,214.01,369
+1983,Carrinho,Brinquedos,166.16,872
+1984,Camiseta,Roupas,183.84,502
+1985,Carrinho,Brinquedos,318.76,367
+1986,Mesa,Móveis,168.08,124
+1987,Martelo,Ferramentas,401.69,165
+1988,Boneca,Brinquedos,192.58,310
+1989,Martelo,Ferramentas,24.05,990
+1990,Romance,Livros,101.15,58
+1991,História,Livros,190.84,982
+1992,Estante,Móveis,66.23,799
+1993,Sofá,Móveis,386.21,915
+1994,Furadeira,Ferramentas,107.17,520
+1995,TV LED,Eletrônicos,181.11,685
+1996,Estante,Móveis,318.76,290
+1997,Biscoito,Alimentos,461.66,890
+1998,Notebook,Eletrônicos,30.04,121
+1999,Boneca,Brinquedos,391.94,149
+2000,Cadeira,Móveis,310.18,771
