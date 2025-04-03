@@ -9,3 +9,7 @@ Conversor de planilhas em Excel (XLSX) para formato de arquivo CSV (americano), 
 ```sh
 pyinstaller --onefile convcsv.py
 ```
+
+## Utilização
+
+[![Assista como utilizar](https://img.youtube.com/vi/qpA84uOYl2o/0.jpg)](https://www.youtube.com/watch?v=qpA84uOYl2o)
